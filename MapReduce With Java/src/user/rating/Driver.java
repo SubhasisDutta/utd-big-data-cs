@@ -29,7 +29,7 @@ public class Driver extends Configured implements Tool {
         FileSystem fs = FileSystem.get(conf);
         Path inputFilePath_review = new Path(args[0]);
         Path inputFilePath_business = new Path(args[1]);
-        conf.set("bs",args[1]);
+        //conf.set("bs",args[1]);
         conf.set("filterCity",args[2]);
         Path outputFilePath = new Path(args[3]);
 
@@ -50,7 +50,7 @@ public class Driver extends Configured implements Tool {
          *  Load the Buisness.csv file into Distributed cache
          */
 
-        DistributedCache.addCacheFile(inputFilePath_business.toUri(), job1.getConfiguration());
+        DistributedCache.addCacheFile(new Path(args[1]).toUri(), job1.getConfiguration());
 
         job1.setOutputKeyClass(Text.class);
         job1.setOutputValueClass(Text.class);
