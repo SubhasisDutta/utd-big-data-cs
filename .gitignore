@@ -14,3 +14,4 @@ hs_err_pid*
 MapReduce With Java/workspace
 SparkScripts/.idea
 SparkScripts/scripts/metastore_db
+SparkML/.idea
