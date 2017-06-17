@@ -1,0 +1,1074 @@
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352044300853248 -d '
+{"hash_tag": "{#trump", "location": "38.8949549,-77.0366455", "sentiment": "neutral", "id": "860352044300853248"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352021932761088 -d '
+{"hash_tag": "#trump", "location": "61.0666922,-107.991707", "sentiment": "positive", "id": "860352021932761088"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352012902424576 -d '
+{"hash_tag": "#trump", "location": "41.8850317,-87.7845024", "sentiment": "neutral", "id": "860352012902424576"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351981961064448 -d '
+{"hash_tag": "#trump", "location": "53.8756494,27.5301015", "sentiment": "neutral", "id": "860351981961064448"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351975493214208 -d '
+{"hash_tag": "#trump", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860351975493214208"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351969705078784 -d '
+{"hash_tag": "#trump", "location": "33.9795655,-116.970584340156", "sentiment": "neutral", "id": "860351969705078784"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351963216531456 -d '
+{"hash_tag": "#trump", "location": "38.8949549,-77.0366455", "sentiment": "neutral", "id": "860351963216531456"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351940114481152 -d '
+{"hash_tag": "#trump", "location": "40.9699889,-77.727883", "sentiment": "neutral", "id": "860351940114481152"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351892353949696 -d '
+{"hash_tag": "#trump", "location": "40.7305991,-73.9865811", "sentiment": "negative", "id": "860351892353949696"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351879645147136 -d '
+{"hash_tag": "#trump", "location": "50.0000002,-86.0", "sentiment": "neutral", "id": "860351879645147136"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351867188117505 -d '
+{"hash_tag": "#trump", "location": "34.3807012,-81.0864775", "sentiment": "neutral", "id": "860351867188117505"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351860330422272 -d '
+{"hash_tag": "#trump", "location": "41.8755546,-87.6244211", "sentiment": "neutral", "id": "860351860330422272"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352870234939392 -d '
+{"hash_tag": "#obama", "location": "40.8517821,-73.0992276431", "sentiment": "negative", "id": "860352870234939392"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352778023165952 -d '
+{"hash_tag": "#obama", "location": "40.0757384,-74.4041621", "sentiment": "negative", "id": "860352778023165952"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352624947634176 -d '
+{"hash_tag": "#obama", "location": "38.8949549,-77.0366455", "sentiment": "negative", "id": "860352624947634176"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352527438499840 -d '
+{"hash_tag": "#obama", "location": "39.5158825,-116.8537226", "sentiment": "negative", "id": "860352527438499840"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352430520754176 -d '
+{"hash_tag": "#obama", "location": "38.8212889,-121.193004", "sentiment": "negative", "id": "860352430520754176"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352405250199552 -d '
+{"hash_tag": "#obama", "location": "35.6729639,-79.0392918", "sentiment": "negative", "id": "860352405250199552"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352215063691264 -d '
+{"hash_tag": "#obama", "location": "31.6702597,-102.4027155", "sentiment": "negative", "id": "860352215063691264"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352065113137152 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860352065113137152"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352056711720960 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "negative", "id": "860352056711720960"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351811311599616 -d '
+{"hash_tag": "#obama", "location": "52.5170365,13.3888599", "sentiment": "neutral", "id": "860351811311599616"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351563214209024 -d '
+{"hash_tag": "#obama", "location": "33.3943282,-104.5229517", "sentiment": "negative", "id": "860351563214209024"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351541974315008 -d '
+{"hash_tag": "#obama", "location": "52.5170365,13.3888599", "sentiment": "neutral", "id": "860351541974315008"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351493127389184 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860351493127389184"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351484919250944 -d '
+{"hash_tag": "#obama", "location": "52.5170365,13.3888599", "sentiment": "neutral", "id": "860351484919250944"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351455013683200 -d '
+{"hash_tag": "#obama", "location": "39.5158825,-116.8537226", "sentiment": "neutral", "id": "860351455013683200"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351424269561856 -d '
+{"hash_tag": "#obama", "location": "41.5051613,-81.6934445", "sentiment": "negative", "id": "860351424269561856"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351353088077824 -d '
+{"hash_tag": "#obama", "location": "39.9242266,-83.8088171", "sentiment": "negative", "id": "860351353088077824"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351147722362880 -d '
+{"hash_tag": "#obama", "location": "33.2668398,-87.4862181", "sentiment": "negative", "id": "860351147722362880"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351030504153088 -d '
+{"hash_tag": "#obama", "location": "30.3674198,-89.0928154", "sentiment": "neutral", "id": "860351030504153088"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350997155037184 -d '
+{"hash_tag": "#obama", "location": "35.42831395,-119.023994307757", "sentiment": "negative", "id": "860350997155037184"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350987189444609 -d '
+{"hash_tag": "#obama", "location": "36.7014631,-118.7559973", "sentiment": "neutral", "id": "860350987189444609"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350815093104640 -d '
+{"hash_tag": "#obama", "location": "33.6874388,-80.4363742", "sentiment": "neutral", "id": "860350815093104640"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350611153399808 -d '
+{"hash_tag": "#obama", "location": "27.7567667,-81.4639834", "sentiment": "negative", "id": "860350611153399808"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350343200337920 -d '
+{"hash_tag": "#obama", "location": "40.0757384,-74.4041621", "sentiment": "negative", "id": "860350343200337920"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350073367965697 -d '
+{"hash_tag": "#obama", "location": "36.7014631,-118.7559973", "sentiment": "negative", "id": "860350073367965697"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349968896458752 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "negative", "id": "860349968896458752"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349813933473793 -d '
+{"hash_tag": "#obama", "location": "34.0224149,-118.286343973446", "sentiment": "neutral", "id": "860349813933473793"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349726465699840 -d '
+{"hash_tag": "#obama", "location": "32.9715645,-89.7348496", "sentiment": "negative", "id": "860349726465699840"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349723986714624 -d '
+{"hash_tag": "#obama", "location": "34.054935,-118.2444759", "sentiment": "negative", "id": "860349723986714624"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349689794887680 -d '
+{"hash_tag": "#obama", "location": "45.9896587,-94.6113287", "sentiment": "negative", "id": "860349689794887680"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349600594632705 -d '
+{"hash_tag": "#obama", "location": "19.32055625,-99.1517009707765", "sentiment": "neutral", "id": "860349600594632705"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349581401481217 -d '
+{"hash_tag": "#obama", "location": "32.3293809,-83.1137365", "sentiment": "neutral", "id": "860349581401481217"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349558840336384 -d '
+{"hash_tag": "#obama", "location": "32.3293809,-83.1137365", "sentiment": "negative", "id": "860349558840336384"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349541039710209 -d '
+{"hash_tag": "#obama", "location": "61.0666922,-107.991707", "sentiment": "negative", "id": "860349541039710209"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349517518036992 -d '
+{"hash_tag": "#obama", "location": "40.7305991,-73.9865811", "sentiment": "neutral", "id": "860349517518036992"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349442809094144 -d '
+{"hash_tag": "#obama", "location": "47.2186371,-1.5541361", "sentiment": "neutral", "id": "860349442809094144"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349357845032960 -d '
+{"hash_tag": "#obama", "location": "35.3738712,-119.0194638", "sentiment": "neutral", "id": "860349357845032960"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349329030230016 -d '
+{"hash_tag": "#obama", "location": "40.7305991,-73.9865811", "sentiment": "neutral", "id": "860349329030230016"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349193155694592 -d '
+{"hash_tag": "#obama", "location": "27.9658533,-82.8001025", "sentiment": "negative", "id": "860349193155694592"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349181168308224 -d '
+{"hash_tag": "#obama", "location": "51.0000002,-109.0000001", "sentiment": "positive", "id": "860349181168308224"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860348983222296576 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860348983222296576"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860348968508604416 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860348968508604416"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860348918567231490 -d '
+{"hash_tag": "#obama", "location": "55.7506828,37.6174976", "sentiment": "neutral", "id": "860348918567231490"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860348809548845056 -d '
+{"hash_tag": "#obama", "location": "41.453799,-70.5683122", "sentiment": "negative", "id": "860348809548845056"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860348730519801863 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "negative", "id": "860348730519801863"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860348668028657664 -d '
+{"hash_tag": "#obama", "location": "39.291761,-74.7574869", "sentiment": "neutral", "id": "860348668028657664"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860348622126317568 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "negative", "id": "860348622126317568"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860348558104547328 -d '
+{"hash_tag": "#obama", "location": "44.3518895,-73.0324935420694", "sentiment": "negative", "id": "860348558104547328"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860348526097686528 -d '
+{"hash_tag": "#obama", "location": "-42.0987292,171.4074024", "sentiment": "negative", "id": "860348526097686528"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860348411693981696 -d '
+{"hash_tag": "#obama", "location": "39.0844687,-94.5630297", "sentiment": "neutral", "id": "860348411693981696"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353202046226432 -d '
+{"hash_tag": "#trump", "location": "33.9192963,-117.873064462512", "sentiment": "negative", "id": "860353202046226432"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353144869486592 -d '
+{"hash_tag": "#trump", "location": "6.4550575,3.3941795", "sentiment": "neutral", "id": "860353144869486592"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353138020286464 -d '
+{"hash_tag": "#trump", "location": "43.157285,-77.6152139", "sentiment": "neutral", "id": "860353138020286464"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353123948408832 -d '
+{"hash_tag": "#trump", "location": "35.0841034,-106.650985", "sentiment": "neutral", "id": "860353123948408832"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353067920838656 -d '
+{"hash_tag": "#trump", "location": "36.1622296,-86.774353", "sentiment": "neutral", "id": "860353067920838656"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353067233017856 -d '
+{"hash_tag": "#trump", "location": "43.074761,-89.3837612", "sentiment": "neutral", "id": "860353067233017856"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353052171284480 -d '
+{"hash_tag": "#trump", "location": "40.9699889,-77.727883", "sentiment": "neutral", "id": "860353052171284480"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353049906348032 -d '
+{"hash_tag": "#trump", "location": "40.7305991,-73.9865811", "sentiment": "neutral", "id": "860353049906348032"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353029760991232 -d '
+{"hash_tag": "#trump", "location": "33.9192963,-117.873064462512", "sentiment": "negative", "id": "860353029760991232"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353027135258624 -d '
+{"hash_tag": "#trump", "location": "36.7014631,-118.7559973", "sentiment": "positive", "id": "860353027135258624"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353020084842496 -d '
+{"hash_tag": "#trump", "location": "39.7837304,-100.4458824", "sentiment": "positive", "id": "860353020084842496"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352979924168704 -d '
+{"hash_tag": "#trump", "location": "40.4058233,-3.7791083", "sentiment": "neutral", "id": "860352979924168704"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352918842728448 -d '
+{"hash_tag": "#trump", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860352918842728448"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352916682670080 -d '
+{"hash_tag": "#trump", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860352916682670080"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352862186082304 -d '
+{"hash_tag": "#trump", "location": "34.79981,-87.6772509", "sentiment": "neutral", "id": "860352862186082304"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352811393052672 -d '
+{"hash_tag": "#trump", "location": "41.9216734,-93.3122704", "sentiment": "neutral", "id": "860352811393052672"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352808910028800 -d '
+{"hash_tag": "#trump", "location": "26.1420358,-81.7948102", "sentiment": "neutral", "id": "860352808910028800"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352788206845952 -d '
+{"hash_tag": "#trump", "location": "40.7305991,-73.9865811", "sentiment": "neutral", "id": "860352788206845952"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352765859696640 -d '
+{"hash_tag": "#trump", "location": "44.4308975,-89.6884636", "sentiment": "negative", "id": "860352765859696640"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352759127789569 -d '
+{"hash_tag": "#trump", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860352759127789569"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352742136696832 -d '
+{"hash_tag": "#trump", "location": "52.7275146,-1.9709049", "sentiment": "neutral", "id": "860352742136696832"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352721961926656 -d '
+{"hash_tag": "#trump", "location": "33.7237617,-116.2673236", "sentiment": "neutral", "id": "860352721961926656"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352661631238144 -d '
+{"hash_tag": "#trump", "location": "40.7305991,-73.9865811", "sentiment": "neutral", "id": "860352661631238144"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352646775017472 -d '
+{"hash_tag": "#trump", "location": "-43.2694581,-65.2811899", "sentiment": "neutral", "id": "860352646775017472"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352625383948288 -d '
+{"hash_tag": "#trump", "location": "32.753177,-97.3327458", "sentiment": "neutral", "id": "860352625383948288"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352623802589185 -d '
+{"hash_tag": "#trump", "location": "34.1083449,-117.2897651", "sentiment": "positive", "id": "860352623802589185"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352599190626304 -d '
+{"hash_tag": "#trump", "location": "31.8160381,-99.5120985", "sentiment": "positive", "id": "860352599190626304"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352590227419136 -d '
+{"hash_tag": "#trump", "location": "49.6194753,20.0272711", "sentiment": "neutral", "id": "860352590227419136"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352541590077440 -d '
+{"hash_tag": "#trump", "location": "43.3578532,-110.9175064", "sentiment": "neutral", "id": "860352541590077440"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352534078038016 -d '
+{"hash_tag": "#trump", "location": "16.8259793,-88.7600926", "sentiment": "neutral", "id": "860352534078038016"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352492785340416 -d '
+{"hash_tag": "#trump", "location": "31.8160381,-99.5120985", "sentiment": "neutral", "id": "860352492785340416"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352441606340608 -d '
+{"hash_tag": "#trump", "location": "38.8949549,-77.0366455", "sentiment": "neutral", "id": "860352441606340608"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352431112237056 -d '
+{"hash_tag": "#trump", "location": "40.6022059,-75.4712793", "sentiment": "neutral", "id": "860352431112237056"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352397012602880 -d '
+{"hash_tag": "#trump", "location": "49.6194753,20.0272711", "sentiment": "neutral", "id": "860352397012602880"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352386455420928 -d '
+{"hash_tag": "#trump", "location": "49.2779085,-123.108941609795", "sentiment": "neutral", "id": "860352386455420928"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352383297220608 -d '
+{"hash_tag": "#trump", "location": "38.8949549,-77.0366455", "sentiment": "neutral", "id": "860352383297220608"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352353957928960 -d '
+{"hash_tag": "#trump", "location": "38.8949549,-77.0366455", "sentiment": "neutral", "id": "860352353957928960"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353313442758657 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860353313442758657"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353224586481664 -d '
+{"hash_tag": "#obama", "location": "40.6501038,-73.9495822", "sentiment": "negative", "id": "860353224586481664"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353160707059712 -d '
+{"hash_tag": "#obama", "location": "43.9792797,-120.7372569", "sentiment": "neutral", "id": "860353160707059712"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353135163867136 -d '
+{"hash_tag": "#obama", "location": "27.7567667,-81.4639834", "sentiment": "neutral", "id": "860353135163867136"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353102574227456 -d '
+{"hash_tag": "#obama", "location": "42.9632405,-85.6678638", "sentiment": "neutral", "id": "860353102574227456"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352922525118464 -d '
+{"hash_tag": "#obama", "location": "33.3975655,-112.433328812153", "sentiment": "negative", "id": "860352922525118464"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352870234939392 -d '
+{"hash_tag": "#obama", "location": "40.8517821,-73.0992276431", "sentiment": "negative", "id": "860352870234939392"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352778023165952 -d '
+{"hash_tag": "#obama", "location": "40.0757384,-74.4041621", "sentiment": "negative", "id": "860352778023165952"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352624947634176 -d '
+{"hash_tag": "#obama", "location": "38.8949549,-77.0366455", "sentiment": "negative", "id": "860352624947634176"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352527438499840 -d '
+{"hash_tag": "#obama", "location": "39.5158825,-116.8537226", "sentiment": "negative", "id": "860352527438499840"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352430520754176 -d '
+{"hash_tag": "#obama", "location": "38.8212889,-121.193004", "sentiment": "negative", "id": "860352430520754176"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352405250199552 -d '
+{"hash_tag": "#obama", "location": "35.6729639,-79.0392918", "sentiment": "negative", "id": "860352405250199552"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352215063691264 -d '
+{"hash_tag": "#obama", "location": "31.6702597,-102.4027155", "sentiment": "negative", "id": "860352215063691264"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352065113137152 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860352065113137152"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352056711720960 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "negative", "id": "860352056711720960"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351811311599616 -d '
+{"hash_tag": "#obama", "location": "52.5170365,13.3888599", "sentiment": "neutral", "id": "860351811311599616"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351541974315008 -d '
+{"hash_tag": "#obama", "location": "52.5170365,13.3888599", "sentiment": "neutral", "id": "860351541974315008"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351493127389184 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860351493127389184"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351484919250944 -d '
+{"hash_tag": "#obama", "location": "52.5170365,13.3888599", "sentiment": "neutral", "id": "860351484919250944"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351455013683200 -d '
+{"hash_tag": "#obama", "location": "39.5158825,-116.8537226", "sentiment": "neutral", "id": "860351455013683200"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351353088077824 -d '
+{"hash_tag": "#obama", "location": "39.9242266,-83.8088171", "sentiment": "negative", "id": "860351353088077824"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351147722362880 -d '
+{"hash_tag": "#obama", "location": "33.2668398,-87.4862181", "sentiment": "negative", "id": "860351147722362880"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351030504153088 -d '
+{"hash_tag": "#obama", "location": "30.3674198,-89.0928154", "sentiment": "neutral", "id": "860351030504153088"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350997155037184 -d '
+{"hash_tag": "#obama", "location": "35.42831395,-119.023994307757", "sentiment": "negative", "id": "860350997155037184"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350987189444609 -d '
+{"hash_tag": "#obama", "location": "36.7014631,-118.7559973", "sentiment": "neutral", "id": "860350987189444609"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350815093104640 -d '
+{"hash_tag": "#obama", "location": "33.6874388,-80.4363742", "sentiment": "neutral", "id": "860350815093104640"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350611153399808 -d '
+{"hash_tag": "#obama", "location": "27.7567667,-81.4639834", "sentiment": "negative", "id": "860350611153399808"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350343200337920 -d '
+{"hash_tag": "#obama", "location": "40.0757384,-74.4041621", "sentiment": "negative", "id": "860350343200337920"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350073367965697 -d '
+{"hash_tag": "#obama", "location": "36.7014631,-118.7559973", "sentiment": "negative", "id": "860350073367965697"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349968896458752 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "negative", "id": "860349968896458752"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349813933473793 -d '
+{"hash_tag": "#obama", "location": "34.0224149,-118.286343973446", "sentiment": "neutral", "id": "860349813933473793"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349726465699840 -d '
+{"hash_tag": "#obama", "location": "32.9715645,-89.7348496", "sentiment": "negative", "id": "860349726465699840"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349723986714624 -d '
+{"hash_tag": "#obama", "location": "34.054935,-118.2444759", "sentiment": "negative", "id": "860349723986714624"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349689794887680 -d '
+{"hash_tag": "#obama", "location": "45.9896587,-94.6113287", "sentiment": "negative", "id": "860349689794887680"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349600594632705 -d '
+{"hash_tag": "#obama", "location": "19.32055625,-99.1517009707765", "sentiment": "neutral", "id": "860349600594632705"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349581401481217 -d '
+{"hash_tag": "#obama", "location": "32.3293809,-83.1137365", "sentiment": "neutral", "id": "860349581401481217"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349558840336384 -d '
+{"hash_tag": "#obama", "location": "32.3293809,-83.1137365", "sentiment": "negative", "id": "860349558840336384"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349541039710209 -d '
+{"hash_tag": "#obama", "location": "61.0666922,-107.991707", "sentiment": "negative", "id": "860349541039710209"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349517518036992 -d '
+{"hash_tag": "#obama", "location": "40.7305991,-73.9865811", "sentiment": "neutral", "id": "860349517518036992"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349454687260673 -d '
+{"hash_tag": "#obama", "location": "53.4575797,-2.226672", "sentiment": "negative", "id": "860349454687260673"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349442809094144 -d '
+{"hash_tag": "#obama", "location": "47.2186371,-1.5541361", "sentiment": "neutral", "id": "860349442809094144"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349357845032960 -d '
+{"hash_tag": "#obama", "location": "35.3738712,-119.0194638", "sentiment": "neutral", "id": "860349357845032960"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349329030230016 -d '
+{"hash_tag": "#obama", "location": "40.7305991,-73.9865811", "sentiment": "neutral", "id": "860349329030230016"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349193155694592 -d '
+{"hash_tag": "#obama", "location": "27.9658533,-82.8001025", "sentiment": "negative", "id": "860349193155694592"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349181168308224 -d '
+{"hash_tag": "#obama", "location": "51.0000002,-109.0000001", "sentiment": "positive", "id": "860349181168308224"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860348983222296576 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860348983222296576"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860348968508604416 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860348968508604416"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353724895551488 -d '
+{"hash_tag": "#trump", "location": "47.5549139,-122.251050040619", "sentiment": "neutral", "id": "860353724895551488"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353695405551616 -d '
+{"hash_tag": "#trump", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860353695405551616"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353689445253120 -d '
+{"hash_tag": "#trump", "location": "31.8160381,-99.5120985", "sentiment": "neutral", "id": "860353689445253120"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353688833073152 -d '
+{"hash_tag": "#trump", "location": "31.8160381,-99.5120985", "sentiment": "neutral", "id": "860353688833073152"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353685489987584 -d '
+{"hash_tag": "#trump", "location": "47.6038321,-122.3300623", "sentiment": "neutral", "id": "860353685489987584"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353674966581248 -d '
+{"hash_tag": "#trump", "location": "31.8160381,-99.5120985", "sentiment": "neutral", "id": "860353674966581248"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353628598669312 -d '
+{"hash_tag": "#trump", "location": "6.4550575,3.3941795", "sentiment": "neutral", "id": "860353628598669312"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353627830984704 -d '
+{"hash_tag": "#trump", "location": "47.6776832,-116.7804663", "sentiment": "neutral", "id": "860353627830984704"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353579181322240 -d '
+{"hash_tag": "#trump", "location": "29.7589382,-95.3676973", "sentiment": "neutral", "id": "860353579181322240"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353563045658625 -d '
+{"hash_tag": "#trump", "location": "33.42671075,-117.611504795149", "sentiment": "neutral", "id": "860353563045658625"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353542346776576 -d '
+{"hash_tag": "#trump", "location": "34.395342,-111.7632754", "sentiment": "neutral", "id": "860353542346776576"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353494032629760 -d '
+{"hash_tag": "#trump", "location": "36.7014631,-118.7559973", "sentiment": "negative", "id": "860353494032629760"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353489708486656 -d '
+{"hash_tag": "#trump", "location": "36.8529841,-75.9774182", "sentiment": "neutral", "id": "860353489708486656"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353480065601536 -d '
+{"hash_tag": "#trump", "location": "34.054935,-118.2444759", "sentiment": "neutral", "id": "860353480065601536"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353466484510720 -d '
+{"hash_tag": "#trump", "location": "36.9735903,-122.0260569", "sentiment": "positive", "id": "860353466484510720"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353457429008384 -d '
+{"hash_tag": "#trump", "location": "-34.2211339,-70.9335692", "sentiment": "neutral", "id": "860353457429008384"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353419021656064 -d '
+{"hash_tag": "#trump", "location": "35.0841034,-106.650985", "sentiment": "neutral", "id": "860353419021656064"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353407894167552 -d '
+{"hash_tag": "#trump", "location": "34.2242902,-118.4453744", "sentiment": "neutral", "id": "860353407894167552"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353405952311296 -d '
+{"hash_tag": "#trump", "location": "40.737599,-73.2548139", "sentiment": "neutral", "id": "860353405952311296"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353398197104640 -d '
+{"hash_tag": "#trump", "location": "-24.7761085,134.755", "sentiment": "neutral", "id": "860353398197104640"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353377603072000 -d '
+{"hash_tag": "#trump", "location": "43.6211955,-84.6824345", "sentiment": "neutral", "id": "860353377603072000"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353371466862592 -d '
+{"hash_tag": "#trump", "location": "39.9059631,116.391248", "sentiment": "neutral", "id": "860353371466862592"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353331562151936 -d '
+{"hash_tag": "#trump", "location": "34.9668893,-80.9088049", "sentiment": "positive", "id": "860353331562151936"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353291737280512 -d '
+{"hash_tag": "#trump", "location": "38.8949549,-77.0366455", "sentiment": "neutral", "id": "860353291737280512"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353289031868416 -d '
+{"hash_tag": "#trump", "location": "49.2779085,-123.108941609795", "sentiment": "neutral", "id": "860353289031868416"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353279573737472 -d '
+{"hash_tag": "#trump", "location": "39.4225192,-111.7143583", "sentiment": "neutral", "id": "860353279573737472"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353246560370689 -d '
+{"hash_tag": "#trump", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860353246560370689"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353232245108736 -d '
+{"hash_tag": "#trump", "location": "47.8810116,-122.1787062", "sentiment": "neutral", "id": "860353232245108736"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353227702784000 -d '
+{"hash_tag": "#trump", "location": "37.3361905,-121.8905832", "sentiment": "neutral", "id": "860353227702784000"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353223923613696 -d '
+{"hash_tag": "#trump", "location": "7.9343197,16.6365008", "sentiment": "positive", "id": "860353223923613696"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353202046226432 -d '
+{"hash_tag": "#trump", "location": "33.9192963,-117.873064462512", "sentiment": "negative", "id": "860353202046226432"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353144869486592 -d '
+{"hash_tag": "#trump", "location": "6.4550575,3.3941795", "sentiment": "neutral", "id": "860353144869486592"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353138020286464 -d '
+{"hash_tag": "#trump", "location": "43.157285,-77.6152139", "sentiment": "neutral", "id": "860353138020286464"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353123948408832 -d '
+{"hash_tag": "#trump", "location": "35.0841034,-106.650985", "sentiment": "neutral", "id": "860353123948408832"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353067920838656 -d '
+{"hash_tag": "#trump", "location": "36.1622296,-86.774353", "sentiment": "neutral", "id": "860353067920838656"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353067233017856 -d '
+{"hash_tag": "#trump", "location": "43.074761,-89.3837612", "sentiment": "neutral", "id": "860353067233017856"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353052171284480 -d '
+{"hash_tag": "#trump", "location": "40.9699889,-77.727883", "sentiment": "neutral", "id": "860353052171284480"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353049906348032 -d '
+{"hash_tag": "#trump", "location": "40.7305991,-73.9865811", "sentiment": "neutral", "id": "860353049906348032"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353027135258624 -d '
+{"hash_tag": "#trump", "location": "36.7014631,-118.7559973", "sentiment": "positive", "id": "860353027135258624"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353020084842496 -d '
+{"hash_tag": "#trump", "location": "39.7837304,-100.4458824", "sentiment": "positive", "id": "860353020084842496"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352979924168704 -d '
+{"hash_tag": "#trump", "location": "40.4058233,-3.7791083", "sentiment": "neutral", "id": "860352979924168704"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352918842728448 -d '
+{"hash_tag": "#trump", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860352918842728448"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352916682670080 -d '
+{"hash_tag": "#trump", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860352916682670080"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352862186082304 -d '
+{"hash_tag": "#trump", "location": "34.79981,-87.6772509", "sentiment": "neutral", "id": "860352862186082304"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352841524838400 -d '
+{"hash_tag": "#trump", "location": "41.5208955,-81.3375191674911", "sentiment": "neutral", "id": "860352841524838400"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352811393052672 -d '
+{"hash_tag": "#trump", "location": "41.9216734,-93.3122704", "sentiment": "neutral", "id": "860352811393052672"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352808910028800 -d '
+{"hash_tag": "#trump", "location": "26.1420358,-81.7948102", "sentiment": "neutral", "id": "860352808910028800"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353823038201856 -d '
+{"hash_tag": "#obama", "location": "41.420552,-86.4846018", "sentiment": "negative", "id": "860353823038201856"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353809113128960 -d '
+{"hash_tag": "#obama", "location": "29.9499323,-90.0701155", "sentiment": "negative", "id": "860353809113128960"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353581102268416 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "negative", "id": "860353581102268416"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353523740852224 -d '
+{"hash_tag": "#obama", "location": "36.7014631,-118.7559973", "sentiment": "negative", "id": "860353523740852224"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353407499948032 -d '
+{"hash_tag": "#obama", "location": "36.7014631,-118.7559973", "sentiment": "negative", "id": "860353407499948032"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353313442758657 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860353313442758657"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353224586481664 -d '
+{"hash_tag": "#obama", "location": "40.6501038,-73.9495822", "sentiment": "negative", "id": "860353224586481664"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353160707059712 -d '
+{"hash_tag": "#obama", "location": "43.9792797,-120.7372569", "sentiment": "neutral", "id": "860353160707059712"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353135163867136 -d '
+{"hash_tag": "#obama", "location": "27.7567667,-81.4639834", "sentiment": "neutral", "id": "860353135163867136"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353102574227456 -d '
+{"hash_tag": "#obama", "location": "42.9632405,-85.6678638", "sentiment": "neutral", "id": "860353102574227456"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352922525118464 -d '
+{"hash_tag": "#obama", "location": "33.3975655,-112.433328812153", "sentiment": "negative", "id": "860352922525118464"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352870234939392 -d '
+{"hash_tag": "#obama", "location": "40.8517821,-73.0992276431", "sentiment": "negative", "id": "860352870234939392"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352778023165952 -d '
+{"hash_tag": "#obama", "location": "40.0757384,-74.4041621", "sentiment": "negative", "id": "860352778023165952"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352624947634176 -d '
+{"hash_tag": "#obama", "location": "38.8949549,-77.0366455", "sentiment": "negative", "id": "860352624947634176"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352430520754176 -d '
+{"hash_tag": "#obama", "location": "38.8212889,-121.193004", "sentiment": "negative", "id": "860352430520754176"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352405250199552 -d '
+{"hash_tag": "#obama", "location": "35.6729639,-79.0392918", "sentiment": "negative", "id": "860352405250199552"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352215063691264 -d '
+{"hash_tag": "#obama", "location": "31.6702597,-102.4027155", "sentiment": "negative", "id": "860352215063691264"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352065113137152 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860352065113137152"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352056711720960 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "negative", "id": "860352056711720960"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351811311599616 -d '
+{"hash_tag": "#obama", "location": "52.5170365,13.3888599", "sentiment": "neutral", "id": "860351811311599616"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351563214209024 -d '
+{"hash_tag": "#obama", "location": "33.3943282,-104.5229517", "sentiment": "negative", "id": "860351563214209024"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351541974315008 -d '
+{"hash_tag": "#obama", "location": "52.5170365,13.3888599", "sentiment": "neutral", "id": "860351541974315008"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351493127389184 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860351493127389184"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351484919250944 -d '
+{"hash_tag": "#obama", "location": "52.5170365,13.3888599", "sentiment": "neutral", "id": "860351484919250944"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351455013683200 -d '
+{"hash_tag": "#obama", "location": "39.5158825,-116.8537226", "sentiment": "neutral", "id": "860351455013683200"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351424269561856 -d '
+{"hash_tag": "#obama", "location": "41.5051613,-81.6934445", "sentiment": "negative", "id": "860351424269561856"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351353088077824 -d '
+{"hash_tag": "#obama", "location": "39.9242266,-83.8088171", "sentiment": "negative", "id": "860351353088077824"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351147722362880 -d '
+{"hash_tag": "#obama", "location": "33.2668398,-87.4862181", "sentiment": "negative", "id": "860351147722362880"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351030504153088 -d '
+{"hash_tag": "#obama", "location": "30.3674198,-89.0928154", "sentiment": "neutral", "id": "860351030504153088"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350997155037184 -d '
+{"hash_tag": "#obama", "location": "35.42831395,-119.023994307757", "sentiment": "negative", "id": "860350997155037184"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350987189444609 -d '
+{"hash_tag": "#obama", "location": "36.7014631,-118.7559973", "sentiment": "neutral", "id": "860350987189444609"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350815093104640 -d '
+{"hash_tag": "#obama", "location": "33.6874388,-80.4363742", "sentiment": "neutral", "id": "860350815093104640"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350611153399808 -d '
+{"hash_tag": "#obama", "location": "27.7567667,-81.4639834", "sentiment": "negative", "id": "860350611153399808"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350343200337920 -d '
+{"hash_tag": "#obama", "location": "40.0757384,-74.4041621", "sentiment": "negative", "id": "860350343200337920"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350073367965697 -d '
+{"hash_tag": "#obama", "location": "36.7014631,-118.7559973", "sentiment": "negative", "id": "860350073367965697"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349813933473793 -d '
+{"hash_tag": "#obama", "location": "34.0224149,-118.286343973446", "sentiment": "neutral", "id": "860349813933473793"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349726465699840 -d '
+{"hash_tag": "#obama", "location": "32.9715645,-89.7348496", "sentiment": "negative", "id": "860349726465699840"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349723986714624 -d '
+{"hash_tag": "#obama", "location": "34.054935,-118.2444759", "sentiment": "negative", "id": "860349723986714624"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349689794887680 -d '
+{"hash_tag": "#obama", "location": "45.9896587,-94.6113287", "sentiment": "negative", "id": "860349689794887680"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349600594632705 -d '
+{"hash_tag": "#obama", "location": "19.32055625,-99.1517009707765", "sentiment": "neutral", "id": "860349600594632705"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349581401481217 -d '
+{"hash_tag": "#obama", "location": "32.3293809,-83.1137365", "sentiment": "neutral", "id": "860349581401481217"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349558840336384 -d '
+{"hash_tag": "#obama", "location": "32.3293809,-83.1137365", "sentiment": "negative", "id": "860349558840336384"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349541039710209 -d '
+{"hash_tag": "#obama", "location": "61.0666922,-107.991707", "sentiment": "negative", "id": "860349541039710209"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349517518036992 -d '
+{"hash_tag": "#obama", "location": "40.7305991,-73.9865811", "sentiment": "neutral", "id": "860349517518036992"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349454687260673 -d '
+{"hash_tag": "#obama", "location": "53.4575797,-2.226672", "sentiment": "negative", "id": "860349454687260673"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349442809094144 -d '
+{"hash_tag": "#obama", "location": "47.2186371,-1.5541361", "sentiment": "neutral", "id": "860349442809094144"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349357845032960 -d '
+{"hash_tag": "#obama", "location": "35.3738712,-119.0194638", "sentiment": "neutral", "id": "860349357845032960"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349329030230016 -d '
+{"hash_tag": "#obama", "location": "40.7305991,-73.9865811", "sentiment": "neutral", "id": "860349329030230016"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354304133275648 -d '
+{"hash_tag": "#trump", "location": "8.5058909,76.9570481", "sentiment": "neutral", "id": "860354304133275648"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354292179456000 -d '
+{"hash_tag": "#trump", "location": "28.6138967,77.2159562", "sentiment": "neutral", "id": "860354292179456000"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354288740179968 -d '
+{"hash_tag": "#trump", "location": "35.1595182,-84.8766114", "sentiment": "neutral", "id": "860354288740179968"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354282931056640 -d '
+{"hash_tag": "#trump", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860354282931056640"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354271224528896 -d '
+{"hash_tag": "#trump", "location": "36.7014631,-118.7559973", "sentiment": "neutral", "id": "860354271224528896"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354258121539585 -d '
+{"hash_tag": "#trump", "location": "34.395342,-111.7632754", "sentiment": "neutral", "id": "860354258121539585"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354257920417792 -d '
+{"hash_tag": "#trump", "location": "48.9368705,2.1570689", "sentiment": "neutral", "id": "860354257920417792"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354250639114240 -d '
+{"hash_tag": "#trump", "location": "28.3673303,-16.3635046", "sentiment": "neutral", "id": "860354250639114240"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354213301424128 -d '
+{"hash_tag": "#trump", "location": "39.9523993,-75.1635898", "sentiment": "neutral", "id": "860354213301424128"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354201737547776 -d '
+{"hash_tag": "#trump", "location": "34.395342,-111.7632754", "sentiment": "neutral", "id": "860354201737547776"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354200248532992 -d '
+{"hash_tag": "#trump", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860354200248532992"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354185241481216 -d '
+{"hash_tag": "#trump", "location": "38.7604815,-92.5617874", "sentiment": "neutral", "id": "860354185241481216"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354175225348096 -d '
+{"hash_tag": "#trump", "location": "45.669513,-121.8904019", "sentiment": "neutral", "id": "860354175225348096"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354172289511426 -d '
+{"hash_tag": "#trump", "location": "41.8850317,-87.7845024", "sentiment": "neutral", "id": "860354172289511426"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354156934160384 -d '
+{"hash_tag": "#trump", "location": "39.7391536,-104.9847033", "sentiment": "neutral", "id": "860354156934160384"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354153737928704 -d '
+{"hash_tag": "#trump", "location": "49.1362948,-122.3025571", "sentiment": "neutral", "id": "860354153737928704"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354153440260096 -d '
+{"hash_tag": "#trump", "location": "40.3270127,-86.1746932", "sentiment": "neutral", "id": "860354153440260096"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354151733108736 -d '
+{"hash_tag": "#trump", "location": "45.669513,-121.8904019", "sentiment": "neutral", "id": "860354151733108736"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354145810644992 -d '
+{"hash_tag": "#trump", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860354145810644992"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354125086810112 -d '
+{"hash_tag": "#trump", "location": "40.7305991,-73.9865811", "sentiment": "neutral", "id": "860354125086810112"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354109924229120 -d '
+{"hash_tag": "#trump", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860354109924229120"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354095839932417 -d '
+{"hash_tag": "#trump", "location": "39.8321862,-89.637008098634", "sentiment": "neutral", "id": "860354095839932417"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354040651284480 -d '
+{"hash_tag": "#trump", "location": "40.9699889,-77.727883", "sentiment": "neutral", "id": "860354040651284480"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354026176643072 -d '
+{"hash_tag": "#trump", "location": "40.7305991,-73.9865811", "sentiment": "neutral", "id": "860354026176643072"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353970094563328 -d '
+{"hash_tag": "#trump", "location": "33.9192963,-117.873064462512", "sentiment": "negative", "id": "860353970094563328"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353927987908608 -d '
+{"hash_tag": "#trump", "location": "41.8755546,-87.6244211", "sentiment": "neutral", "id": "860353927987908608"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353912263639040 -d '
+{"hash_tag": "#trump", "location": "39.5162234,-76.9382068", "sentiment": "neutral", "id": "860353912263639040"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353869049544704 -d '
+{"hash_tag": "#trump", "location": "33.743765,-116.223315149664", "sentiment": "neutral", "id": "860353869049544704"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353868277760001 -d '
+{"hash_tag": "#trump", "location": "39.03515105,-84.4655326675654", "sentiment": "neutral", "id": "860353868277760001"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353863563579393 -d '
+{"hash_tag": "#trump", "location": "1.2904753,103.8520359", "sentiment": "neutral", "id": "860353863563579393"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353863420923904 -d '
+{"hash_tag": "#trump", "location": "-33.8548156,151.2164539", "sentiment": "neutral", "id": "860353863420923904"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353840012460032 -d '
+{"hash_tag": "#trump", "location": "40.0796319,-89.4339808", "sentiment": "neutral", "id": "860353840012460032"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353820911693824 -d '
+{"hash_tag": "#trump", "location": "40.0796319,-89.4339808", "sentiment": "positive", "id": "860353820911693824"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353803626979328 -d '
+{"hash_tag": "#trump", "location": "32.753177,-97.3327458", "sentiment": "neutral", "id": "860353803626979328"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353786090532864 -d '
+{"hash_tag": "#trump", "location": "38.8949549,-77.0366455", "sentiment": "neutral", "id": "860353786090532864"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353779803148288 -d '
+{"hash_tag": "#trump", "location": "61.0666922,-107.991707", "sentiment": "neutral", "id": "860353779803148288"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353736547467264 -d '
+{"hash_tag": "#trump", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860353736547467264"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353724895551488 -d '
+{"hash_tag": "#trump", "location": "47.5549139,-122.251050040619", "sentiment": "neutral", "id": "860353724895551488"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353695405551616 -d '
+{"hash_tag": "#trump", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860353695405551616"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353689445253120 -d '
+{"hash_tag": "#trump", "location": "31.8160381,-99.5120985", "sentiment": "neutral", "id": "860353689445253120"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353688833073152 -d '
+{"hash_tag": "#trump", "location": "31.8160381,-99.5120985", "sentiment": "neutral", "id": "860353688833073152"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353685489987584 -d '
+{"hash_tag": "#trump", "location": "47.6038321,-122.3300623", "sentiment": "neutral", "id": "860353685489987584"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353674966581248 -d '
+{"hash_tag": "#trump", "location": "31.8160381,-99.5120985", "sentiment": "neutral", "id": "860353674966581248"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353673968459776 -d '
+{"hash_tag": "#trump", "location": "35.2270869,-80.8431267", "sentiment": "neutral", "id": "860353673968459776"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353628598669312 -d '
+{"hash_tag": "#trump", "location": "6.4550575,3.3941795", "sentiment": "neutral", "id": "860353628598669312"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353627830984704 -d '
+{"hash_tag": "#trump", "location": "47.6776832,-116.7804663", "sentiment": "neutral", "id": "860353627830984704"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353579181322240 -d '
+{"hash_tag": "#trump", "location": "29.7589382,-95.3676973", "sentiment": "neutral", "id": "860353579181322240"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353563045658625 -d '
+{"hash_tag": "#trump", "location": "33.42671075,-117.611504795149", "sentiment": "neutral", "id": "860353563045658625"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353550970499072 -d '
+{"hash_tag": "#trump", "location": "41.7370229,-99.5873815", "sentiment": "neutral", "id": "860353550970499072"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353542346776576 -d '
+{"hash_tag": "#trump", "location": "34.395342,-111.7632754", "sentiment": "neutral", "id": "860353542346776576"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353494032629760 -d '
+{"hash_tag": "#trump", "location": "36.7014631,-118.7559973", "sentiment": "negative", "id": "860353494032629760"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353489708486656 -d '
+{"hash_tag": "#trump", "location": "36.8529841,-75.9774182", "sentiment": "neutral", "id": "860353489708486656"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353480065601536 -d '
+{"hash_tag": "#trump", "location": "34.054935,-118.2444759", "sentiment": "neutral", "id": "860353480065601536"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353466484510720 -d '
+{"hash_tag": "#trump", "location": "36.9735903,-122.0260569", "sentiment": "positive", "id": "860353466484510720"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354304133275648 -d '
+{"hash_tag": "#obama", "location": "8.5058909,76.9570481", "sentiment": "neutral", "id": "860354304133275648"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354102206668800 -d '
+{"hash_tag": "#obama", "location": "36.7014631,-118.7559973", "sentiment": "negative", "id": "860354102206668800"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353823038201856 -d '
+{"hash_tag": "#obama", "location": "41.420552,-86.4846018", "sentiment": "negative", "id": "860353823038201856"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353809113128960 -d '
+{"hash_tag": "#obama", "location": "29.9499323,-90.0701155", "sentiment": "negative", "id": "860353809113128960"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353581102268416 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "negative", "id": "860353581102268416"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353523740852224 -d '
+{"hash_tag": "#obama", "location": "36.7014631,-118.7559973", "sentiment": "negative", "id": "860353523740852224"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353407499948032 -d '
+{"hash_tag": "#obama", "location": "36.7014631,-118.7559973", "sentiment": "negative", "id": "860353407499948032"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353313442758657 -d '
+{"hash_tag": "#obama", "location": "43.9850693,-75.5049109", "sentiment": "neutral", "id": "860353313442758657"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353224586481664 -d '
+{"hash_tag": "#obama", "location": "40.6501038,-73.9495822", "sentiment": "negative", "id": "860353224586481664"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353160707059712 -d '
+{"hash_tag": "#obama", "location": "43.9792797,-120.7372569", "sentiment": "neutral", "id": "860353160707059712"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353135163867136 -d '
+{"hash_tag": "#obama", "location": "27.7567667,-81.4639834", "sentiment": "neutral", "id": "860353135163867136"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860353102574227456 -d '
+{"hash_tag": "#obama", "location": "42.9632405,-85.6678638", "sentiment": "neutral", "id": "860353102574227456"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352922525118464 -d '
+{"hash_tag": "#obama", "location": "33.3975655,-112.433328812153", "sentiment": "negative", "id": "860352922525118464"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352778023165952 -d '
+{"hash_tag": "#obama", "location": "40.0757384,-74.4041621", "sentiment": "negative", "id": "860352778023165952"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352624947634176 -d '
+{"hash_tag": "#obama", "location": "38.8949549,-77.0366455", "sentiment": "negative", "id": "860352624947634176"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352527438499840 -d '
+{"hash_tag": "#obama", "location": "39.5158825,-116.8537226", "sentiment": "negative", "id": "860352527438499840"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352430520754176 -d '
+{"hash_tag": "#obama", "location": "38.8212889,-121.193004", "sentiment": "negative", "id": "860352430520754176"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352215063691264 -d '
+{"hash_tag": "#obama", "location": "31.6702597,-102.4027155", "sentiment": "negative", "id": "860352215063691264"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352065113137152 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860352065113137152"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860352056711720960 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "negative", "id": "860352056711720960"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351811311599616 -d '
+{"hash_tag": "#obama", "location": "52.5170365,13.3888599", "sentiment": "neutral", "id": "860351811311599616"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351563214209024 -d '
+{"hash_tag": "#obama", "location": "33.3943282,-104.5229517", "sentiment": "negative", "id": "860351563214209024"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351541974315008 -d '
+{"hash_tag": "#obama", "location": "52.5170365,13.3888599", "sentiment": "neutral", "id": "860351541974315008"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351493127389184 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860351493127389184"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351484919250944 -d '
+{"hash_tag": "#obama", "location": "52.5170365,13.3888599", "sentiment": "neutral", "id": "860351484919250944"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351455013683200 -d '
+{"hash_tag": "#obama", "location": "39.5158825,-116.8537226", "sentiment": "neutral", "id": "860351455013683200"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351424269561856 -d '
+{"hash_tag": "#obama", "location": "41.5051613,-81.6934445", "sentiment": "negative", "id": "860351424269561856"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351353088077824 -d '
+{"hash_tag": "#obama", "location": "39.9242266,-83.8088171", "sentiment": "negative", "id": "860351353088077824"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351147722362880 -d '
+{"hash_tag": "#obama", "location": "33.2668398,-87.4862181", "sentiment": "negative", "id": "860351147722362880"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860351030504153088 -d '
+{"hash_tag": "#obama", "location": "30.3674198,-89.0928154", "sentiment": "neutral", "id": "860351030504153088"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350997155037184 -d '
+{"hash_tag": "#obama", "location": "35.42831395,-119.023994307757", "sentiment": "negative", "id": "860350997155037184"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350987189444609 -d '
+{"hash_tag": "#obama", "location": "36.7014631,-118.7559973", "sentiment": "neutral", "id": "860350987189444609"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350815093104640 -d '
+{"hash_tag": "#obama", "location": "33.6874388,-80.4363742", "sentiment": "neutral", "id": "860350815093104640"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350611153399808 -d '
+{"hash_tag": "#obama", "location": "27.7567667,-81.4639834", "sentiment": "negative", "id": "860350611153399808"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350343200337920 -d '
+{"hash_tag": "#obama", "location": "40.0757384,-74.4041621", "sentiment": "negative", "id": "860350343200337920"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860350073367965697 -d '
+{"hash_tag": "#obama", "location": "36.7014631,-118.7559973", "sentiment": "negative", "id": "860350073367965697"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349968896458752 -d '
+{"hash_tag": "#obama", "location": "39.7837304,-100.4458824", "sentiment": "negative", "id": "860349968896458752"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349813933473793 -d '
+{"hash_tag": "#obama", "location": "34.0224149,-118.286343973446", "sentiment": "neutral", "id": "860349813933473793"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349726465699840 -d '
+{"hash_tag": "#obama", "location": "32.9715645,-89.7348496", "sentiment": "negative", "id": "860349726465699840"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349723986714624 -d '
+{"hash_tag": "#obama", "location": "34.054935,-118.2444759", "sentiment": "negative", "id": "860349723986714624"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349689794887680 -d '
+{"hash_tag": "#obama", "location": "45.9896587,-94.6113287", "sentiment": "negative", "id": "860349689794887680"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349600594632705 -d '
+{"hash_tag": "#obama", "location": "19.32055625,-99.1517009707765", "sentiment": "neutral", "id": "860349600594632705"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349581401481217 -d '
+{"hash_tag": "#obama", "location": "32.3293809,-83.1137365", "sentiment": "neutral", "id": "860349581401481217"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349558840336384 -d '
+{"hash_tag": "#obama", "location": "32.3293809,-83.1137365", "sentiment": "negative", "id": "860349558840336384"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860349541039710209 -d '
+{"hash_tag": "#obama", "location": "61.0666922,-107.991707", "sentiment": "negative", "id": "860349541039710209"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354922474123265 -d '
+{"hash_tag": "#trump", "location": "36.7014631,-118.7559973", "sentiment": "neutral", "id": "860354922474123265"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354914958155776 -d '
+{"hash_tag": "#trump", "location": "37.5726028,-85.155141", "sentiment": "neutral", "id": "860354914958155776"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354889117040640 -d '
+{"hash_tag": "#trump", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860354889117040640"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354874520862720 -d '
+{"hash_tag": "#trump", "location": "33.2588817,-86.8295336", "sentiment": "negative", "id": "860354874520862720"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354861241520129 -d '
+{"hash_tag": "#trump", "location": "51.0000002,-109.0000001", "sentiment": "neutral", "id": "860354861241520129"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354849011097600 -d '
+{"hash_tag": "#trump", "location": "40.7305991,-73.9865811", "sentiment": "neutral", "id": "860354849011097600"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354847836487680 -d '
+{"hash_tag": "#trump", "location": "34.054935,-118.2444759", "sentiment": "neutral", "id": "860354847836487680"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354836113612800 -d '
+{"hash_tag": "#trump", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860354836113612800"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354833194393600 -d '
+{"hash_tag": "#trump", "location": "32.7762719,-96.7968558", "sentiment": "neutral", "id": "860354833194393600"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354821064466432 -d '
+{"hash_tag": "#trump", "location": "40.605566,-97.8592149", "sentiment": "neutral", "id": "860354821064466432"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354814261293056 -d '
+{"hash_tag": "#trump", "location": "61.0666922,-107.991707", "sentiment": "neutral", "id": "860354814261293056"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354806405353472 -d '
+{"hash_tag": "#trump", "location": "10.2735633,-84.0739101", "sentiment": "neutral", "id": "860354806405353472"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354799795044352 -d '
+{"hash_tag": "#trump", "location": "61.0666922,-107.991707", "sentiment": "negative", "id": "860354799795044352"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354784691400704 -d '
+{"hash_tag": "#trump", "location": "31.8160381,-99.5120985", "sentiment": "neutral", "id": "860354784691400704"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354760792297473 -d '
+{"hash_tag": "#trump", "location": "61.0666922,-107.991707", "sentiment": "neutral", "id": "860354760792297473"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354758443495424 -d '
+{"hash_tag": "#trump", "location": "39.7837304,-100.4458824", "sentiment": "neutral", "id": "860354758443495424"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354750331576320 -d '
+{"hash_tag": "#trump", "location": "34.1028268,-118.3299898", "sentiment": "neutral", "id": "860354750331576320"}
+'
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/860354740110200832 -d '
+{"hash_tag": "#trump", "location": "41.237557,-80.8184169", "sentiment": "neutral", "id": "860354740110200832"}
+'

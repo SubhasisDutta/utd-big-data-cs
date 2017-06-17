@@ -1,0 +1,4 @@
+Accuracy of Decision Tree is = 95.34883720930233%
+
+Accuracy of Naive Bayes is = 87.20930232558139%
+

@@ -1,0 +1,53 @@
+curl -XPUT http://localhost:9200/places -d '
+{"doc": {"properties": {"geo": {"properties": {"location": {"type": "geo_point"}}}}}}
+
+curl -XPUT http://localhost:9200/tweetfeed7- -d '
+{
+    "mappings": {
+        "doc": {
+            "properties": {
+                "id": {"type": "string"},
+                "hash_tag": {"type": "string"},
+                "sentiment": {"type": "string"},
+                "location": {"type": "geo_point"},
+                "time_stamp": {"type": "date"}
+            }
+        }
+    }
+}'
+
+curl -XPUT http://localhost:9200/tweetfeed8- -d '
+{
+    "mappings": {
+        "doc": {
+            "properties": {
+                "id": {"type": "string"},
+                "hash_tag": {"type": "string"},
+                "sentiment": {"type": "string"},
+                "location": {"type": "geo_point"}
+            }
+        }
+    }
+}'
+
+curl -XPUT http://localhost:9200/tweetfeed7-/doc/1 -d '
+{"id": "860354814261293056",
+"hash_tag": "#trump",
+"location": "61.0666922, -107.991707",
+"sentiment": "neutral",
+"time_stamp": datetime.datetime(2017, 5, 5, 4, 45, 43)
+}
+'
+{
+  "text": "Geo-point as an object",
+  "location": {
+    "lat": 41.12,
+    "lon": -71.34
+  }
+}
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/3 -d '
+{"hash_tag": "#trump", "location": "61.0666922,-107.991707", "sentiment": "neutral", "id": "260354814261293056"}
+
+curl -XPUT http://localhost:9200/tweetfeed8-/doc/2 -d '
+{"hash_tag": "#trump", "location": "34.1028268,-118.3299898", "sentiment": "neutral", "id": "860354750331576320"}
+'

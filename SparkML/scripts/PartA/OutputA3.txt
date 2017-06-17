@@ -1,0 +1,6 @@
+Mean Squared Error = 0.752792840500368
+
+error: Double = 0.10697638093944835                                             
+
+Accuracy of ALS Model is = 89.30236190605515%
+

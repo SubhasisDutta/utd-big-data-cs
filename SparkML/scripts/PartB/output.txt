@@ -1,0 +1,2487 @@
+-------------------------------------------
+Time: 2017-05-04 23:38:06
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:07
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:08
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:09
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:10
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:11
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:12
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:13
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:14
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:15
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:16
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:17
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:18
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:19
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:20
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:21
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @EcoInternet3: Want Donald #Trump To Care About #Climate Change? Trevor Noah ...: Huffington Post https://t.co/abiVLuqqK3 #environment', 'longitude': -77.0366455, 'created_time': 1493976886.0, 'latitude': 38.8949549, '_id': u'860352044300853248'}
+
+-------------------------------------------
+Time: 2017-05-04 23:38:22
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'positive', 'tweet': u"RT @IAmJoeTrudeau: It's nice up here.  Well, until one turns the news on and up pops #Trump https://t.co/YzSujipfe4", 'longitude': -107.991707, 'created_time': 1493976881.0, 'latitude': 61.0666922, '_id': u'860352021932761088'}
+
+-------------------------------------------
+Time: 2017-05-04 23:38:23
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:24
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:25
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'#Trump States Most Likely to Be Affected by GOP Health Bill - Political Wire https://t.co/3YeKDOcaTL', 'longitude': -87.7845024, 'created_time': 1493976879.0, 'latitude': 41.8850317, '_id': u'860352012902424576'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'Hmph. Auntie #MaxineWaters. #Trump https://t.co/HuqjNm8bBJ https://t.co/pWqa3L4scw', 'longitude': 27.5301015, 'created_time': 1493976871.0, 'latitude': 53.8756494, '_id': u'860351981961064448'}
+
+-------------------------------------------
+Time: 2017-05-04 23:38:26
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:27
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:28
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @TheRealDaniYell: #Trump threatening #FreedomofSpeech We need to do more! Tell him\U0001f447\n#WereNotGoingToTakeIt \n#resist \n#TheResistanceGQ htt\u2026', 'longitude': -100.4458824, 'created_time': 1493976870.0, 'latitude': 39.7837304, '_id': u'860351975493214208'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @Unpersuaded112: #Trump spent nearly $1 million tax dollars on a new #helipad at #Maralago @realDonaldTrump https://t.co/qcP9ExTl3v', 'longitude': -116.970584340156, 'created_time': 1493976868.0, 'latitude': 33.9795655, '_id': u'860351969705078784'}
+
+-------------------------------------------
+Time: 2017-05-04 23:38:29
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'@HouseGOP @SenateGOP @HouseDemocrats @SenateDems @DemGovs @TheRGPPC\n#theresistance  #trumprussia #trump #resist\u2026 https://t.co/oWJL8eVBhf', 'longitude': -77.0366455, 'created_time': 1493976867.0, 'latitude': 38.8949549, '_id': u'860351963216531456'}
+
+-------------------------------------------
+Time: 2017-05-04 23:38:30
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"Well that's gonna leave a mark!\n\nAnd they thought Colbert was harsh!\n#Trump #TrumpCare https://t.co/DWPzRgai6x", 'longitude': -77.727883, 'created_time': 1493976861.0, 'latitude': 40.9699889, '_id': u'860351940114481152'}
+{'hash_tag': u'#trump', 'lavel': 'negative', 'tweet': u'me waiting to see what #Trump is going to tweet on #CincodeMayo https://t.co/2bMawOzJAg', 'longitude': -73.9865811, 'created_time': 1493976850.0, 'latitude': 40.7305991, '_id': u'860351892353949696'}
+
+-------------------------------------------
+Time: 2017-05-04 23:38:31
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @BrianPaulStuart: The #deplorable #ignorance of #TrumpSupporters knows neither shame nor bounds.\n#Trump #MAGA #TheResistance #RESIST htt\u2026', 'longitude': -86.0, 'created_time': 1493976847.0, 'latitude': 50.0000002, '_id': u'860351879645147136'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @rednecknation: \U0001f602Rolling out!!\U0001f602 #Trump #DonaldTrump #redneck #rednecknation #crackercartel #rhec #Trump2016 https://t.co/N9WqfyzC11', 'longitude': -81.0864775, 'created_time': 1493976844.0, 'latitude': 34.3807012, '_id': u'860351867188117505'}
+
+-------------------------------------------
+Time: 2017-05-04 23:38:32
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @ThinkMexican: In #Portland, Mexican family\u2019s home and vehicles vandalized, #Trump note left behind\n\nhttps://t.co/t5psUtzCvv https://t.c\u2026', 'longitude': -87.6244211, 'created_time': 1493976842.0, 'latitude': 41.8755546, '_id': u'860351860330422272'}
+
+-------------------------------------------
+Time: 2017-05-04 23:38:33
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -73.0992276431, 'created_time': 1493977083.0, 'latitude': 40.8517821, '_id': u'860352870234939392'}
+
+-------------------------------------------
+Time: 2017-05-04 23:38:34
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -74.4041621, 'created_time': 1493977061.0, 'latitude': 40.0757384, '_id': u'860352778023165952'}
+
+-------------------------------------------
+Time: 2017-05-04 23:38:35
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -77.0366455, 'created_time': 1493977025.0, 'latitude': 38.8949549, '_id': u'860352624947634176'}
+
+-------------------------------------------
+Time: 2017-05-04 23:38:36
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:37
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -116.8537226, 'created_time': 1493977001.0, 'latitude': 39.5158825, '_id': u'860352527438499840'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -121.193004, 'created_time': 1493976978.0, 'latitude': 38.8212889, '_id': u'860352430520754176'}
+
+-------------------------------------------
+Time: 2017-05-04 23:38:38
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -79.0392918, 'created_time': 1493976972.0, 'latitude': 35.6729639, '_id': u'860352405250199552'}
+
+-------------------------------------------
+Time: 2017-05-04 23:38:39
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -102.4027155, 'created_time': 1493976927.0, 'latitude': 31.6702597, '_id': u'860352215063691264'}
+
+-------------------------------------------
+Time: 2017-05-04 23:38:40
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:41
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:42
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:43
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:44
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:45
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @ronboutwell: #antifa #liberal #resist #resistance #obama #liberal #blm #blacklivesmatter https://t.co/03KTI0rROW', 'longitude': -100.4458824, 'created_time': 1493976891.0, 'latitude': 39.7837304, '_id': u'860352065113137152'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -100.4458824, 'created_time': 1493976889.0, 'latitude': 39.7837304, '_id': u'860352056711720960'}
+
+-------------------------------------------
+Time: 2017-05-04 23:38:46
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:47
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:48
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:49
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:50
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:51
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'@BarackObama #Obama s erster #Auftritt als Ex-Pr\xe4sident in #Chicago, #USA, #SivBritK\xfchl, #ARD- #aktuell @YouTube https://t.co/DJghIRYZqO', 'longitude': 13.3888599, 'created_time': 1493976831.0, 'latitude': 52.5170365, '_id': u'860351811311599616'}
+
+-------------------------------------------
+Time: 2017-05-04 23:38:52
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:53
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:54
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:55
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:56
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:57
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:58
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:38:59
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:00
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:01
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:02
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:03
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:04
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:05
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -104.5229517, 'created_time': 1493976771.0, 'latitude': 33.3943282, '_id': u'860351563214209024'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:06
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @WirwollenTTIP: @BarackObama #Obama s erster #Auftritt als Ex-Pr\xe4sident in #Chicago, #USA, #SivBritK\xfchl, #ARD- #aktuell @YouTube https:/\u2026', 'longitude': 13.3888599, 'created_time': 1493976766.0, 'latitude': 52.5170365, '_id': u'860351541974315008'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:07
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:08
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:09
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:10
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:11
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'#MAGA\nSo great 2 see #Obama continuing his primary mission of #MuslimsFirst.\n#EverybodyButAmerica = #PresidentObama\u2026 https://t.co/HdN5Tu2TIc', 'longitude': -100.4458824, 'created_time': 1493976755.0, 'latitude': 39.7837304, '_id': u'860351493127389184'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:12
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'@BarackObama #Obama s erster #Auftritt als Ex-Pr\xe4sident in #Chicago, #USA, #SivBritK\xfchl, #ARD- #aktuell @YouTube https://t.co/BfNrq7f8b9', 'longitude': 13.3888599, 'created_time': 1493976753.0, 'latitude': 52.5170365, '_id': u'860351484919250944'}
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @ronboutwell: NOTHING FUNNIER THAN A TRIGGERED LIBERAL.  #antifa #liberal #resist #resistance #obama #liberal #blm #blacklivesmatter htt\u2026', 'longitude': -116.8537226, 'created_time': 1493976746.0, 'latitude': 39.5158825, '_id': u'860351455013683200'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:13
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -81.6934445, 'created_time': 1493976738.0, 'latitude': 41.5051613, '_id': u'860351424269561856'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:14
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -83.8088171, 'created_time': 1493976721.0, 'latitude': 39.9242266, '_id': u'860351353088077824'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:15
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -87.4862181, 'created_time': 1493976672.0, 'latitude': 33.2668398, '_id': u'860351147722362880'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:16
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'NOTHING FUNNIER THAN A TRIGGERED LIBERAL.  #antifa #liberal #resist #resistance #obama #liberal #blm\u2026 https://t.co/znMQxCYxMt', 'longitude': -89.0928154, 'created_time': 1493976644.0, 'latitude': 30.3674198, '_id': u'860351030504153088'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:17
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -119.023994307757, 'created_time': 1493976636.0, 'latitude': 35.42831395, '_id': u'860350997155037184'}
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u"@antwonomous u is on 2 somthn dawg \U0001f923\U0001f602 don't no if u drew me or #obama https://t.co/ufRqd6zDlb", 'longitude': -118.7559973, 'created_time': 1493976634.0, 'latitude': 36.7014631, '_id': u'860350987189444609'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:18
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:19
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @Elvira_OnAir: #Obama deported 2.5M illegals, but faced no massive demonstrations. #Trump does same thing and is demonized. Double stand\u2026', 'longitude': -80.4363742, 'created_time': 1493976593.0, 'latitude': 33.6874388, '_id': u'860350815093104640'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -81.4639834, 'created_time': 1493976544.0, 'latitude': 27.7567667, '_id': u'860350611153399808'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:20
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:21
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:22
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -74.4041621, 'created_time': 1493976481.0, 'latitude': 40.0757384, '_id': u'860350343200337920'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @TheRealBeatBoss: The WORST villain in modern history #StarWarsDay #MayThe4thBeWithYou #Obama @BarackObama #Islam #Muslim https://t.co/E\u2026', 'longitude': -118.7559973, 'created_time': 1493976416.0, 'latitude': 36.7014631, '_id': u'860350073367965697'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:23
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -100.4458824, 'created_time': 1493976391.0, 'latitude': 39.7837304, '_id': u'860349968896458752'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:24
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @a35362: 100 Days: Ex-Obama Photographer Is Still Insta-Shading Trump https://t.co/zeDRTe4TwJ #BarackObama #Instagram #Obama #PeteSouza\u2026', 'longitude': -118.286343973446, 'created_time': 1493976354.0, 'latitude': 34.0224149, '_id': u'860349813933473793'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:25
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -89.7348496, 'created_time': 1493976333.0, 'latitude': 32.9715645, '_id': u'860349726465699840'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:26
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -118.2444759, 'created_time': 1493976333.0, 'latitude': 34.054935, '_id': u'860349723986714624'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -94.6113287, 'created_time': 1493976325.0, 'latitude': 45.9896587, '_id': u'860349689794887680'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:27
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'#Obama da su apoyo a #Macron para presidir #Francia https://t.co/1Ilbj1d9MB', 'longitude': -99.1517009707765, 'created_time': 1493976303.0, 'latitude': 19.32055625, '_id': u'860349600594632705'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:28
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @LibertyandEcon: Study documents how profitable access to Obama\u2019s White House was   https://t.co/gzQ1Y0owQQ #Obama #cronycapitalism', 'longitude': -83.1137365, 'created_time': 1493976299.0, 'latitude': 32.3293809, '_id': u'860349581401481217'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:29
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'@3lectric5heep Prudence needs to keep her legs closed and be checked for STDs... which BTW are NOT considered  pre\u2026 https://t.co/lC2swF0k67', 'longitude': -83.1137365, 'created_time': 1493976294.0, 'latitude': 32.3293809, '_id': u'860349558840336384'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -107.991707, 'created_time': 1493976289.0, 'latitude': 61.0666922, '_id': u'860349541039710209'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:30
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @SorosUnited: Soros Obama &amp; the Pope walk into a Bar https://t.co/kEwFAXXyp6 #MAGA #draintheswamp #PopeFrancis #obama #Obamacare', 'longitude': -73.9865811, 'created_time': 1493976284.0, 'latitude': 40.7305991, '_id': u'860349517518036992'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:31
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:32
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @Camilletouraine: "#Macron d\xe9fend les valeurs lib\xe9rales".\nErreur de traduction, bien s\xfbr. \nC\'est \xe7a, l\'Empire \xe9tazunien. #Obama\U0001f600 https:/\u2026', 'longitude': -1.5541361, 'created_time': 1493976266.0, 'latitude': 47.2186371, '_id': u'860349442809094144'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:33
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @Elvira_OnAir: #Obama deported 2.5M illegals, but faced no massive demonstrations. #Trump does same thing and is demonized. Double stand\u2026', 'longitude': -119.0194638, 'created_time': 1493976246.0, 'latitude': 35.3738712, '_id': u'860349357845032960'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:34
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @vincentcuratola: Can you imagine if he would have said it about #Obama?...#Maxine Waters would have grabbed her...well...you know... ht\u2026', 'longitude': -73.9865811, 'created_time': 1493976239.0, 'latitude': 40.7305991, '_id': u'860349329030230016'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -82.8001025, 'created_time': 1493976206.0, 'latitude': 27.9658533, '_id': u'860349193155694592'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:35
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'positive', 'tweet': u'#AHCA is awful &amp; selfish. But still better than b4 #Obamacare.   #Obama legacy will continue in future &amp; will b better than #Obamacare 1 day', 'longitude': -109.0000001, 'created_time': 1493976203.0, 'latitude': 51.0000002, '_id': u'860349181168308224'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:36
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @UnRealNateStorm: @vance_gary @KazmierskiR @PrisonPlanet People of #France. look at what is happening to your country. #Obama funded #IS\u2026', 'longitude': -100.4458824, 'created_time': 1493976156.0, 'latitude': 39.7837304, '_id': u'860348983222296576'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:37
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @ronboutwell: NOTHING FUNNIER THAN A TRIGGERED LIBERAL.  #antifa #liberal #resist #resistance #obama #liberal #blm #blacklivesmatter htt\u2026', 'longitude': -100.4458824, 'created_time': 1493976153.0, 'latitude': 39.7837304, '_id': u'860348968508604416'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:38
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'#USA:#Obama-initiated campaign of #Russophobia still lingers in US \u2013 #Lavrov https://t.co/EIhcrFYsVG #Russia', 'longitude': 37.6174976, 'created_time': 1493976141.0, 'latitude': 55.7506828, '_id': u'860348918567231490'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:39
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -70.5683122, 'created_time': 1493976115.0, 'latitude': 41.453799, '_id': u'860348809548845056'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -100.4458824, 'created_time': 1493976096.0, 'latitude': 39.7837304, '_id': u'860348730519801863'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:40
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'Can someone create a montage of #Obama &amp; #Biden? I need something to cry to. \n\nMakiiiing loooove out of nothing at all...', 'longitude': -74.7574869, 'created_time': 1493976081.0, 'latitude': 39.291761, '_id': u'860348668028657664'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:41
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:42
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:43
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:44
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:45
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:46
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @LoveUSADawn: What a horrible person! #Obama was the Worse president in USA history!\n#ObamaGate #Spying\n#TrumpsArmy #Obamacare #AHCA \n#H\u2026', 'longitude': -100.4458824, 'created_time': 1493976070.0, 'latitude': 39.7837304, '_id': u'860348622126317568'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -73.0324935420694, 'created_time': 1493976055.0, 'latitude': 44.3518895, '_id': u'860348558104547328'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:47
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': 171.4074024, 'created_time': 1493976047.0, 'latitude': -42.0987292, '_id': u'860348526097686528'}
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @a35362: 100 Days: Ex-Obama Photographer Is Still Insta-Shading Trump https://t.co/zeDRTe4TwJ #BarackObama #Instagram #Obama #PeteSouza\u2026', 'longitude': -94.5630297, 'created_time': 1493976020.0, 'latitude': 39.0844687, '_id': u'860348411693981696'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:48
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:49
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'negative', 'tweet': u"I can't wait for #Trump's middle class supporters to realize just how badly he &amp; the #GOP have screwed them over in\u2026 https://t.co/NxwQrZQk8f", 'longitude': -117.873064462512, 'created_time': 1493977162.0, 'latitude': 33.9192963, '_id': u'860353202046226432'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:50
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'#Nigeria #news - #Trump to sign revised executive order on immigration Monday https://t.co/UNBVaboKpm', 'longitude': 3.3941795, 'created_time': 1493977148.0, 'latitude': 6.4550575, '_id': u'860353144869486592'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @SandraTXAS: Jimmy Kimmel 1%er out of touch with what is REALLY going on with Obamacare\n\n#IAmAPreexistingCondition\n#MAGA\n#Trump https://\u2026', 'longitude': -77.6152139, 'created_time': 1493977147.0, 'latitude': 43.157285, '_id': u'860353138020286464'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:51
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"RT @trish_regan: As fmr US history major #Trump's strategy of weaving history into speeches works.He reminds us of unique past.Our sacrific\u2026", 'longitude': -106.650985, 'created_time': 1493977143.0, 'latitude': 35.0841034, '_id': u'860353123948408832'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:52
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:53
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:54
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:55
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:56
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:57
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:39:58
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @LVNancy: Democrats have insisted the #Russians are resoponsible for #Trump WIN.\n\nWhy is  #SusanRice refusing to testify to that?\n#Thurs\u2026', 'longitude': -86.774353, 'created_time': 1493977130.0, 'latitude': 36.1622296, '_id': u'860353067920838656'}
+
+-------------------------------------------
+Time: 2017-05-04 23:39:59
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @DowdEdward: Many are asking why #Trump pulled a 180 in April. \n\nThe CIA sat him down &amp; showed him the other Dealy Plaza film from a dif\u2026', 'longitude': -89.3837612, 'created_time': 1493977130.0, 'latitude': 43.074761, '_id': u'860353067233017856'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @smartvalueblog: RT Arrest &amp; hang traitor John Kerry for Treason. #USA #Patriots #military #PJNET #Congress #Cruz #Trump #Ryan @GOP http\u2026', 'longitude': -77.727883, 'created_time': 1493977126.0, 'latitude': 40.9699889, '_id': u'860353052171284480'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:00
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @amjoyshow: How #Trump Could Get Fired https://t.co/O3fHcQKqhc via @eosnos', 'longitude': -73.9865811, 'created_time': 1493977126.0, 'latitude': 40.7305991, '_id': u'860353049906348032'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:01
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'negative', 'tweet': u"I can't wait for #Trump's middle class supporters to realize just how badly he &amp; the #GOP have screwed them over in\u2026 https://t.co/G4HFF9yRMM", 'longitude': -117.873064462512, 'created_time': 1493977121.0, 'latitude': 33.9192963, '_id': u'860353029760991232'}
+{'hash_tag': u'#trump', 'lavel': 'positive', 'tweet': u'Pretty sure being a woman in #Trump America means  #IAmAPreexistingCondition.', 'longitude': -118.7559973, 'created_time': 1493977120.0, 'latitude': 36.7014631, '_id': u'860353027135258624'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:02
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'positive', 'tweet': u'RT @GasparProuve: Pic your favourite!\n\n#poll #cars #US #Italy #Germany #Japan #funquestion #fun #Trump #Firecolbert #Macron #Lepen #Musclec\u2026', 'longitude': -100.4458824, 'created_time': 1493977119.0, 'latitude': 39.7837304, '_id': u'860353020084842496'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"#Trump praises #Australia's #universalhealthcare  - perhaps he should have read his own bill?!@CNNPolitics https://t.co/yF7pc0cqdq", 'longitude': -3.7791083, 'created_time': 1493977109.0, 'latitude': 40.4058233, '_id': u'860352979924168704'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:03
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:04
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'Malcolm Turnbull meets with Donald Trump aboard USS Intrepid https://t.co/f7EBPwLqxD #Politics #Trump #USA', 'longitude': -100.4458824, 'created_time': 1493977095.0, 'latitude': 39.7837304, '_id': u'860352918842728448'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'USA: Trump and Turnbull meet after alleged contentious phone call on refugee deal https://t.co/oLrZw76lPl #Politics #Trump #USA', 'longitude': -100.4458824, 'created_time': 1493977094.0, 'latitude': 39.7837304, '_id': u'860352916682670080'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:05
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @TODDCastPodcast: May 12 @VivaHears powered guest @CulturedRuffian talks #Trump. How is he doing as US #President? #POTUS https://t.co/V\u2026', 'longitude': -87.6772509, 'created_time': 1493977081.0, 'latitude': 34.79981, '_id': u'860352862186082304'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:06
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:07
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'The garbage in the White House &amp; Capital Hill needs to be taken out to the curb and hauled away. #GOP #Corporate Puppets #POTUS ? #Trump', 'longitude': -93.3122704, 'created_time': 1493977069.0, 'latitude': 41.9216734, '_id': u'860352811393052672'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:08
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"RT @trish_regan: As fmr US history major #Trump's strategy of weaving history into speeches works.He reminds us of unique past.Our sacrific\u2026", 'longitude': -81.7948102, 'created_time': 1493977068.0, 'latitude': 26.1420358, '_id': u'860352808910028800'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:09
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @amjoyshow: As McCain softens tone on #Trump, State Dept considers giving his wife a job https://t.co/Z1Fw5DTEbz via @AP', 'longitude': -73.9865811, 'created_time': 1493977063.0, 'latitude': 40.7305991, '_id': u'860352788206845952'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:10
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'negative', 'tweet': u"Getting unsigned hate mail from people because of my 'despicable'  letters to the editor about #Trump  Cowards.  HAH!", 'longitude': -89.6884636, 'created_time': 1493977058.0, 'latitude': 44.4308975, '_id': u'860352765859696640'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:11
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @lisareneepruitt: "... specific grievances less important than the primordial, mocking incivility with which they are expressed"  #Trump\u2026', 'longitude': -100.4458824, 'created_time': 1493977057.0, 'latitude': 39.7837304, '_id': u'860352759127789569'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:12
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:13
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:14
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"RT @freedom2marry: #Trumpcare: It's like #Trump University but you die.\n\n#shame\n#AHCA\n#VoteNoAHCA", 'longitude': -1.9709049, 'created_time': 1493977052.0, 'latitude': 52.7275146, '_id': u'860352742136696832'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @DrDenaGrayson: .@LouiseMensch @TrueFactsStated @3L3V3NTH @hardhouz13 Iadonisi worked for #Flynn &amp; #Trump campaign, who paid $200k for \u201c\u2026', 'longitude': -116.2673236, 'created_time': 1493977048.0, 'latitude': 33.7237617, '_id': u'860352721961926656'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:15
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:16
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:17
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @DrDenaGrayson: .@LouiseMensch @TrueFactsStated @3L3V3NTH @hardhouz13 Iadonisi worked for #Flynn &amp; #Trump campaign, who paid $200k for \u201c\u2026', 'longitude': -73.9865811, 'created_time': 1493977033.0, 'latitude': 40.7305991, '_id': u'860352661631238144'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @bocavista2016: DIANNE FEINSTEIN\n\n\U0001f449\xa0No Evidence Of #TrumpRussia Collusion\n\nhttps://t.co/Q5rbI7r2NZ\n@realDonaldTrump #Trump #MAGA\n#AHCA #\u2026', 'longitude': -65.2811899, 'created_time': 1493977030.0, 'latitude': -43.2694581, '_id': u'860352646775017472'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:18
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:19
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @SandraTXAS: Jimmy Kimmel 1%er out of touch with what is REALLY going on with Obamacare\n\n#IAmAPreexistingCondition\n#MAGA\n#Trump https://\u2026', 'longitude': -97.3327458, 'created_time': 1493977025.0, 'latitude': 32.753177, '_id': u'860352625383948288'}
+{'hash_tag': u'#trump', 'lavel': 'positive', 'tweet': u'RT @2ALAW: Until Obama Was Elected President I Had Never Seen Or Experienced A Racist.\n\nHe Divided America! \U0001f30f\n\n#Trump\n#nationaldayofprayer\u2026', 'longitude': -117.2897651, 'created_time': 1493977024.0, 'latitude': 34.1083449, '_id': u'860352623802589185'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:20
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:21
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'positive', 'tweet': u'RT @2ALAW: Until Obama Was Elected President I Had Never Seen Or Experienced A Racist.\n\nHe Divided America! \U0001f30f\n\n#Trump\n#nationaldayofprayer\u2026', 'longitude': -99.5120985, 'created_time': 1493977018.0, 'latitude': 31.8160381, '_id': u'860352599190626304'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:22
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @LadyLiberty411: German bank that loaned $300m to #Trump had a YUGE role in a #Russian #moneylaundering crime ring! #GlobalLaundrymat ht\u2026', 'longitude': 20.0272711, 'created_time': 1493977016.0, 'latitude': 49.6194753, '_id': u'860352590227419136'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @SandraTXAS: Jimmy Kimmel 1%er out of touch with what is REALLY going on with Obamacare\n\n#IAmAPreexistingCondition\n#MAGA\n#Trump https://\u2026', 'longitude': -110.9175064, 'created_time': 1493977005.0, 'latitude': 43.3578532, '_id': u'860352541590077440'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:23
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @Unpersuaded112: 20,000 young people told you to go f__k yourself recently Donald #Trump( @realDonaldTrump ) #MAGA. https://t.co/PIRxvlt\u2026', 'longitude': -88.7600926, 'created_time': 1493977003.0, 'latitude': 16.8259793, '_id': u'860352534078038016'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:24
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:25
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @SandraTXAS: Jimmy Kimmel 1%er out of touch with what is REALLY going on with Obamacare\n\n#IAmAPreexistingCondition\n#MAGA\n#Trump https://\u2026', 'longitude': -99.5120985, 'created_time': 1493976993.0, 'latitude': 31.8160381, '_id': u'860352492785340416'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:26
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'#Trump #JimmyKimmel @jimmykimmel https://t.co/sIGz070Kkp', 'longitude': -77.0366455, 'created_time': 1493976981.0, 'latitude': 38.8949549, '_id': u'860352441606340608'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:27
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @EcoInternet3: Want Donald #Trump To Care About #Climate Change? Trevor Noah ...: Huffington Post https://t.co/abiVLuqqK3 #environment', 'longitude': -75.4712793, 'created_time': 1493976978.0, 'latitude': 40.6022059, '_id': u'860352431112237056'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:28
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @LadyLiberty411: The FBI is investigating their use by #TrumpRussia in 2016 to discredit HRC (#pizzagate) &amp; distract from #trump after t\u2026', 'longitude': 20.0272711, 'created_time': 1493976970.0, 'latitude': 49.6194753, '_id': u'860352397012602880'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:29
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"RT @ReimersBK: Well that's gonna leave a mark!\n\nAnd they thought Colbert was harsh!\n#Trump #TrumpCare https://t.co/DWPzRgai6x", 'longitude': -123.108941609795, 'created_time': 1493976968.0, 'latitude': 49.2779085, '_id': u'860352386455420928'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @suebee129: #trump \U0001f4a9 https://t.co/8QfcEfDiv8', 'longitude': -77.0366455, 'created_time': 1493976967.0, 'latitude': 38.8949549, '_id': u'860352383297220608'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:30
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'@HouseGOP @SenateGOP @HouseDemocrats @SenateDems @DemGovs @TheRGPPC\n#theresistance  #trumprussia #trump #resist\u2026 https://t.co/Kn4hsMqRMP', 'longitude': -77.0366455, 'created_time': 1493976960.0, 'latitude': 38.8949549, '_id': u'860352353957928960'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:31
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:32
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:33
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:34
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:35
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:36
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:37
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'@Erinsalvatore5 @MasterHefe @GOP What do you like about #Obamacare? Skyrocketing premiums or the fact it was pimped\u2026 https://t.co/LDs7BJg3ck', 'longitude': -100.4458824, 'created_time': 1493977189.0, 'latitude': 39.7837304, '_id': u'860353313442758657'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:38
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -73.9495822, 'created_time': 1493977167.0, 'latitude': 40.6501038, '_id': u'860353224586481664'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:39
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u"RT @BayAreaCT: WATCH President Trump as he announces #AHCA &amp; demolishes another 1 of #Obama's legacies. Goodbye #Obamacare! #MAGA\U0001f1fa\U0001f1f8 https:/\u2026", 'longitude': -120.7372569, 'created_time': 1493977152.0, 'latitude': 43.9792797, '_id': u'860353160707059712'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:40
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @USSANews: ALERT! Look What #IRAN Is Doing With The $1.7 BILLION In Untraceable Cash #Obama Gave Them! - https://t.co/tBoCtUaM4x https:/\u2026', 'longitude': -81.4639834, 'created_time': 1493977146.0, 'latitude': 27.7567667, '_id': u'860353135163867136'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:41
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'#Obama now has nothing of his legacy but a #trainwreck abroad, a mountain of US debt, and a deeply divided country. #Obamacarerepeal  #MAGA', 'longitude': -85.6678638, 'created_time': 1493977138.0, 'latitude': 42.9632405, '_id': u'860353102574227456'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:42
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -112.433328812153, 'created_time': 1493977095.0, 'latitude': 33.3975655, '_id': u'860352922525118464'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:43
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -73.0992276431, 'created_time': 1493977083.0, 'latitude': 40.8517821, '_id': u'860352870234939392'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -74.4041621, 'created_time': 1493977061.0, 'latitude': 40.0757384, '_id': u'860352778023165952'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:44
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:45
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:46
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:47
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:48
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:49
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -77.0366455, 'created_time': 1493977025.0, 'latitude': 38.8949549, '_id': u'860352624947634176'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:50
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:51
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:52
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:53
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:54
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:55
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:40:56
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -116.8537226, 'created_time': 1493977001.0, 'latitude': 39.5158825, '_id': u'860352527438499840'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:57
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -121.193004, 'created_time': 1493976978.0, 'latitude': 38.8212889, '_id': u'860352430520754176'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -79.0392918, 'created_time': 1493976972.0, 'latitude': 35.6729639, '_id': u'860352405250199552'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:58
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -102.4027155, 'created_time': 1493976927.0, 'latitude': 31.6702597, '_id': u'860352215063691264'}
+
+-------------------------------------------
+Time: 2017-05-04 23:40:59
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @ronboutwell: #antifa #liberal #resist #resistance #obama #liberal #blm #blacklivesmatter https://t.co/03KTI0rROW', 'longitude': -100.4458824, 'created_time': 1493976891.0, 'latitude': 39.7837304, '_id': u'860352065113137152'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:00
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -100.4458824, 'created_time': 1493976889.0, 'latitude': 39.7837304, '_id': u'860352056711720960'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:01
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:02
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'@BarackObama #Obama s erster #Auftritt als Ex-Pr\xe4sident in #Chicago, #USA, #SivBritK\xfchl, #ARD- #aktuell @YouTube https://t.co/DJghIRYZqO', 'longitude': 13.3888599, 'created_time': 1493976831.0, 'latitude': 52.5170365, '_id': u'860351811311599616'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:03
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:04
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:05
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:06
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @WirwollenTTIP: @BarackObama #Obama s erster #Auftritt als Ex-Pr\xe4sident in #Chicago, #USA, #SivBritK\xfchl, #ARD- #aktuell @YouTube https:/\u2026', 'longitude': 13.3888599, 'created_time': 1493976766.0, 'latitude': 52.5170365, '_id': u'860351541974315008'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:07
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:08
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:09
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:10
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:11
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:12
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'#MAGA\nSo great 2 see #Obama continuing his primary mission of #MuslimsFirst.\n#EverybodyButAmerica = #PresidentObama\u2026 https://t.co/HdN5Tu2TIc', 'longitude': -100.4458824, 'created_time': 1493976755.0, 'latitude': 39.7837304, '_id': u'860351493127389184'}
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'@BarackObama #Obama s erster #Auftritt als Ex-Pr\xe4sident in #Chicago, #USA, #SivBritK\xfchl, #ARD- #aktuell @YouTube https://t.co/BfNrq7f8b9', 'longitude': 13.3888599, 'created_time': 1493976753.0, 'latitude': 52.5170365, '_id': u'860351484919250944'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:13
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @ronboutwell: NOTHING FUNNIER THAN A TRIGGERED LIBERAL.  #antifa #liberal #resist #resistance #obama #liberal #blm #blacklivesmatter htt\u2026', 'longitude': -116.8537226, 'created_time': 1493976746.0, 'latitude': 39.5158825, '_id': u'860351455013683200'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:14
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:15
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:16
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -83.8088171, 'created_time': 1493976721.0, 'latitude': 39.9242266, '_id': u'860351353088077824'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -87.4862181, 'created_time': 1493976672.0, 'latitude': 33.2668398, '_id': u'860351147722362880'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:17
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'NOTHING FUNNIER THAN A TRIGGERED LIBERAL.  #antifa #liberal #resist #resistance #obama #liberal #blm\u2026 https://t.co/znMQxCYxMt', 'longitude': -89.0928154, 'created_time': 1493976644.0, 'latitude': 30.3674198, '_id': u'860351030504153088'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:18
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -119.023994307757, 'created_time': 1493976636.0, 'latitude': 35.42831395, '_id': u'860350997155037184'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:19
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u"@antwonomous u is on 2 somthn dawg \U0001f923\U0001f602 don't no if u drew me or #obama https://t.co/ufRqd6zDlb", 'longitude': -118.7559973, 'created_time': 1493976634.0, 'latitude': 36.7014631, '_id': u'860350987189444609'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:20
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @Elvira_OnAir: #Obama deported 2.5M illegals, but faced no massive demonstrations. #Trump does same thing and is demonized. Double stand\u2026', 'longitude': -80.4363742, 'created_time': 1493976593.0, 'latitude': 33.6874388, '_id': u'860350815093104640'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -81.4639834, 'created_time': 1493976544.0, 'latitude': 27.7567667, '_id': u'860350611153399808'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:21
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:22
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:23
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:24
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:25
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:26
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:27
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -74.4041621, 'created_time': 1493976481.0, 'latitude': 40.0757384, '_id': u'860350343200337920'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:28
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @TheRealBeatBoss: The WORST villain in modern history #StarWarsDay #MayThe4thBeWithYou #Obama @BarackObama #Islam #Muslim https://t.co/E\u2026', 'longitude': -118.7559973, 'created_time': 1493976416.0, 'latitude': 36.7014631, '_id': u'860350073367965697'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:29
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:30
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:31
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:32
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:33
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -100.4458824, 'created_time': 1493976391.0, 'latitude': 39.7837304, '_id': u'860349968896458752'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:34
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:35
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @a35362: 100 Days: Ex-Obama Photographer Is Still Insta-Shading Trump https://t.co/zeDRTe4TwJ #BarackObama #Instagram #Obama #PeteSouza\u2026', 'longitude': -118.286343973446, 'created_time': 1493976354.0, 'latitude': 34.0224149, '_id': u'860349813933473793'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -89.7348496, 'created_time': 1493976333.0, 'latitude': 32.9715645, '_id': u'860349726465699840'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:36
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -118.2444759, 'created_time': 1493976333.0, 'latitude': 34.054935, '_id': u'860349723986714624'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:37
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -94.6113287, 'created_time': 1493976325.0, 'latitude': 45.9896587, '_id': u'860349689794887680'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:38
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'#Obama da su apoyo a #Macron para presidir #Francia https://t.co/1Ilbj1d9MB', 'longitude': -99.1517009707765, 'created_time': 1493976303.0, 'latitude': 19.32055625, '_id': u'860349600594632705'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:39
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @LibertyandEcon: Study documents how profitable access to Obama\u2019s White House was   https://t.co/gzQ1Y0owQQ #Obama #cronycapitalism', 'longitude': -83.1137365, 'created_time': 1493976299.0, 'latitude': 32.3293809, '_id': u'860349581401481217'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'@3lectric5heep Prudence needs to keep her legs closed and be checked for STDs... which BTW are NOT considered  pre\u2026 https://t.co/lC2swF0k67', 'longitude': -83.1137365, 'created_time': 1493976294.0, 'latitude': 32.3293809, '_id': u'860349558840336384'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:40
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -107.991707, 'created_time': 1493976289.0, 'latitude': 61.0666922, '_id': u'860349541039710209'}
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @SorosUnited: Soros Obama &amp; the Pope walk into a Bar https://t.co/kEwFAXXyp6 #MAGA #draintheswamp #PopeFrancis #obama #Obamacare', 'longitude': -73.9865811, 'created_time': 1493976284.0, 'latitude': 40.7305991, '_id': u'860349517518036992'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:41
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:42
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:43
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:44
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:45
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:46
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -2.226672, 'created_time': 1493976269.0, 'latitude': 53.4575797, '_id': u'860349454687260673'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:47
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @Camilletouraine: "#Macron d\xe9fend les valeurs lib\xe9rales".\nErreur de traduction, bien s\xfbr. \nC\'est \xe7a, l\'Empire \xe9tazunien. #Obama\U0001f600 https:/\u2026', 'longitude': -1.5541361, 'created_time': 1493976266.0, 'latitude': 47.2186371, '_id': u'860349442809094144'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:48
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @Elvira_OnAir: #Obama deported 2.5M illegals, but faced no massive demonstrations. #Trump does same thing and is demonized. Double stand\u2026', 'longitude': -119.0194638, 'created_time': 1493976246.0, 'latitude': 35.3738712, '_id': u'860349357845032960'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:49
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @vincentcuratola: Can you imagine if he would have said it about #Obama?...#Maxine Waters would have grabbed her...well...you know... ht\u2026', 'longitude': -73.9865811, 'created_time': 1493976239.0, 'latitude': 40.7305991, '_id': u'860349329030230016'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -82.8001025, 'created_time': 1493976206.0, 'latitude': 27.9658533, '_id': u'860349193155694592'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:50
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'positive', 'tweet': u'#AHCA is awful &amp; selfish. But still better than b4 #Obamacare.   #Obama legacy will continue in future &amp; will b better than #Obamacare 1 day', 'longitude': -109.0000001, 'created_time': 1493976203.0, 'latitude': 51.0000002, '_id': u'860349181168308224'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:51
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @UnRealNateStorm: @vance_gary @KazmierskiR @PrisonPlanet People of #France. look at what is happening to your country. #Obama funded #IS\u2026', 'longitude': -100.4458824, 'created_time': 1493976156.0, 'latitude': 39.7837304, '_id': u'860348983222296576'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:52
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @ronboutwell: NOTHING FUNNIER THAN A TRIGGERED LIBERAL.  #antifa #liberal #resist #resistance #obama #liberal #blm #blacklivesmatter htt\u2026', 'longitude': -100.4458824, 'created_time': 1493976153.0, 'latitude': 39.7837304, '_id': u'860348968508604416'}
+
+-------------------------------------------
+Time: 2017-05-04 23:41:53
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:54
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:55
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:56
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:57
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:58
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:41:59
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:00
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:01
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:02
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:03
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:04
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:05
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'We need an #IndependentInvestigation, with staff working 24x7. \n\n#Trump is winning the #TrumpRussiaCoverUp.\n\n#Resist', 'longitude': -122.251050040619, 'created_time': 1493977287.0, 'latitude': 47.5549139, '_id': u'860353724895551488'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:06
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"RT @avanconia: It's time for #Trump Supporters to Call &amp; Write the @WhiteHouse.\nTell him to #DrainTheSwamp, #BuildTheWall &amp; FIGHT!\n\U0001f449https:/\u2026", 'longitude': -100.4458824, 'created_time': 1493977280.0, 'latitude': 39.7837304, '_id': u'860353695405551616'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:07
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'Europe Edition: France, Syria, Prince Philip: Your Friday Briefing https://t.co/wJWxY9E1Ci #trump #USA https://t.co/OhQNWrVW5x', 'longitude': -99.5120985, 'created_time': 1493977278.0, 'latitude': 31.8160381, '_id': u'860353689445253120'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"RT @trish_regan: As fmr US history major #Trump's strategy of weaving history into speeches works.He reminds us of unique past.Our sacrific\u2026", 'longitude': -99.5120985, 'created_time': 1493977278.0, 'latitude': 31.8160381, '_id': u'860353688833073152'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:08
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @DrDenaGrayson: .@LouiseMensch @TrueFactsStated @3L3V3NTH @hardhouz13 Iadonisi worked for #Flynn &amp; #Trump campaign, who paid $200k for \u201c\u2026', 'longitude': -122.3300623, 'created_time': 1493977277.0, 'latitude': 47.6038321, '_id': u'860353685489987584'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'The Money Issue: Israel\u2019s Invisible Filipino Work Force https://t.co/kIcutjsUUA #trump #USA https://t.co/xPJQxJJECp', 'longitude': -99.5120985, 'created_time': 1493977275.0, 'latitude': 31.8160381, '_id': u'860353674966581248'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:09
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:10
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:11
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'#Nigeria #news - #Trump to sign revised executive order on immigration Monday https://t.co/a6ssKSuQs6', 'longitude': 3.3941795, 'created_time': 1493977264.0, 'latitude': 6.4550575, '_id': u'860353628598669312'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:12
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"As if churches don't get away with enough horseshit.  https://t.co/NQT0SjFitT #religulous #religion #church #trump", 'longitude': -116.7804663, 'created_time': 1493977264.0, 'latitude': 47.6776832, '_id': u'860353627830984704'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @SandraTXAS: Jimmy Kimmel 1%er out of touch with what is REALLY going on with Obamacare\n\n#IAmAPreexistingCondition\n#MAGA\n#Trump https://\u2026', 'longitude': -95.3676973, 'created_time': 1493977252.0, 'latitude': 29.7589382, '_id': u'860353579181322240'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:13
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:14
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'This is the #Trump ad @CNN refused to air because of #FakeNews graphic.\n\nWe apologize, it should say #VeryFakeNews \U0001f602 https://t.co/Vgui2P27j7', 'longitude': -117.611504795149, 'created_time': 1493977248.0, 'latitude': 33.42671075, '_id': u'860353563045658625'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:15
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"RT @Don_Vito_08: Stephen #FireColbert doubles down on #Trump #Homophobia taunt: 'I would do it again' #CancelColbert | https://t.co/amzasl2\u2026", 'longitude': -111.7632754, 'created_time': 1493977243.0, 'latitude': 34.395342, '_id': u'860353542346776576'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:16
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'negative', 'tweet': u'Liberals are mad that Obamacare will be gone soon! Let the snowflaking begin!!!! #TRUMP #MAGA #AmericanHealthCareAct #AmericaFirst', 'longitude': -118.7559973, 'created_time': 1493977232.0, 'latitude': 36.7014631, '_id': u'860353494032629760'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:17
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @DrDenaGrayson: .@LouiseMensch @TrueFactsStated @3L3V3NTH @hardhouz13 Iadonisi worked for #Flynn &amp; #Trump campaign, who paid $200k for \u201c\u2026', 'longitude': -75.9774182, 'created_time': 1493977231.0, 'latitude': 36.8529841, '_id': u'860353489708486656'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:18
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @electroboyusa: Every American has the right to quality #mentalhealth care and #Trumpcare is not "wonderful" as #Trump tweeted - - it hu\u2026', 'longitude': -118.2444759, 'created_time': 1493977228.0, 'latitude': 34.054935, '_id': u'860353480065601536'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:19
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'positive', 'tweet': u"RT @avanconia: @PrisonPlanet @MrBCWalker Hey #Resistance I know you say #Trump's the worst.. so why does he give &amp; receive more respect &amp; h\u2026", 'longitude': -122.0260569, 'created_time': 1493977225.0, 'latitude': 36.9735903, '_id': u'860353466484510720'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:20
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"RT @Hockey_Pro_Guru: VOTE These RINOs OUT In their Primaries in 2018/20.. These are your Never-#Trump'er Neo-Cons\nThank you #FreedomCaucus\u2026", 'longitude': -70.9335692, 'created_time': 1493977223.0, 'latitude': -34.2211339, '_id': u'860353457429008384'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:21
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @ThinkMexican: In #Portland, Mexican family\u2019s home and vehicles vandalized, #Trump note left behind\n\nhttps://t.co/t5psUtzCvv https://t.c\u2026', 'longitude': -106.650985, 'created_time': 1493977214.0, 'latitude': 35.0841034, '_id': u'860353419021656064'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:22
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @SandraTXAS: Jimmy Kimmel 1%er out of touch with what is REALLY going on with Obamacare\n\n#IAmAPreexistingCondition\n#MAGA\n#Trump https://\u2026', 'longitude': -118.4453744, 'created_time': 1493977211.0, 'latitude': 34.2242902, '_id': u'860353407894167552'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:23
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:24
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:25
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:26
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:27
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:28
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'Roger Stone: My Opposition Is To Those Who Mislead #TRUMP // Kushner Property Financed by George Soros https://t.co/dQbgcaV8D5 via @YouTube', 'longitude': -73.2548139, 'created_time': 1493977211.0, 'latitude': 40.737599, '_id': u'860353405952311296'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @ksandiego52: You are for sure the BEST #TRUMPTRUCK supporter EVER!!! @POTUS #TRUCKERS #TRUMP #MAGA #FOXNEWS https://t.co/ILOX3CsqvD', 'longitude': 134.755, 'created_time': 1493977209.0, 'latitude': -24.7761085, '_id': u'860353398197104640'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:29
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @amjoyshow: As McCain softens tone on #Trump, State Dept considers giving his wife a job https://t.co/Z1Fw5DTEbz via @AP', 'longitude': -84.6824345, 'created_time': 1493977204.0, 'latitude': 43.6211955, '_id': u'860353377603072000'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:30
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'#Trump adds trips to Saudi Arabia, Israel, Vatican before NATO, G7 summits https://t.co/AlLYBDC33w https://t.co/iityHjJ2Px', 'longitude': 116.391248, 'created_time': 1493977203.0, 'latitude': 39.9059631, '_id': u'860353371466862592'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:31
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:32
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:33
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:34
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:35
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:36
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:37
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'positive', 'tweet': u'RT @2ALAW: Until Obama Was Elected President I Had Never Seen Or Experienced A Racist.\n\nHe Divided America! \U0001f30f\n\n#Trump\n#nationaldayofprayer\u2026', 'longitude': -80.9088049, 'created_time': 1493977193.0, 'latitude': 34.9668893, '_id': u'860353331562151936'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:38
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'#ImpeachTrump #Trump #RussiaGate #Resist RT @CNN: Ammo sales are slumping under Trump https://t.co/3TTAL4thNB https://t.co/a3M51jOdyh', 'longitude': -77.0366455, 'created_time': 1493977183.0, 'latitude': 38.8949549, '_id': u'860353291737280512'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:39
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @EcoInternet3: Want Donald #Trump To Care About #Climate Change? Trevor Noah ...: Huffington Post https://t.co/abiVLuqqK3 #environment', 'longitude': -123.108941609795, 'created_time': 1493977183.0, 'latitude': 49.2779085, '_id': u'860353289031868416'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:40
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:41
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @amjoyshow: As McCain softens tone on #Trump, State Dept considers giving his wife a job https://t.co/Z1Fw5DTEbz via @AP', 'longitude': -111.7143583, 'created_time': 1493977181.0, 'latitude': 39.4225192, '_id': u'860353279573737472'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:42
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @US_Army_Vet2: Hannity: Mothers of kids murdered by illegal aliens w/ #Trump @DebFreedomVoice @American1765 #Senate #Congress #USA\U0001f1fa\U0001f1f8http\u2026', 'longitude': -100.4458824, 'created_time': 1493977173.0, 'latitude': 39.7837304, '_id': u'860353246560370689'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @BrianPaulStuart: .@realDonaldTrump:\nYou know no shame. What a fraud you are.\n#DonaldTrump #Trump #PretenderInChief #FakePresident #Faux\u2026', 'longitude': -122.1787062, 'created_time': 1493977169.0, 'latitude': 47.8810116, '_id': u'860353232245108736'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:43
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:44
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"@ElPayanes \xa1'Ya s\xe9'!\n El '#Mexico'\u2026colonia que les arrebat\xf3 #Trump a la #EscoriaEspa\xf1ola\u2014quienes se hacian llamar '\u2026 https://t.co/G6hs5OGzHY", 'longitude': -121.8905832, 'created_time': 1493977168.0, 'latitude': 37.3361905, '_id': u'860353227702784000'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:45
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'positive', 'tweet': u'RT @HowtoResist45: Pretty sure being a woman in #Trump America means  #IAmAPreexistingCondition.', 'longitude': 16.6365008, 'created_time': 1493977167.0, 'latitude': 7.9343197, '_id': u'860353223923613696'}
+{'hash_tag': u'#trump', 'lavel': 'negative', 'tweet': u"I can't wait for #Trump's middle class supporters to realize just how badly he &amp; the #GOP have screwed them over in\u2026 https://t.co/NxwQrZQk8f", 'longitude': -117.873064462512, 'created_time': 1493977162.0, 'latitude': 33.9192963, '_id': u'860353202046226432'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:46
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'#Nigeria #news - #Trump to sign revised executive order on immigration Monday https://t.co/UNBVaboKpm', 'longitude': 3.3941795, 'created_time': 1493977148.0, 'latitude': 6.4550575, '_id': u'860353144869486592'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:47
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @SandraTXAS: Jimmy Kimmel 1%er out of touch with what is REALLY going on with Obamacare\n\n#IAmAPreexistingCondition\n#MAGA\n#Trump https://\u2026', 'longitude': -77.6152139, 'created_time': 1493977147.0, 'latitude': 43.157285, '_id': u'860353138020286464'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:48
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"RT @trish_regan: As fmr US history major #Trump's strategy of weaving history into speeches works.He reminds us of unique past.Our sacrific\u2026", 'longitude': -106.650985, 'created_time': 1493977143.0, 'latitude': 35.0841034, '_id': u'860353123948408832'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:49
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:50
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @LVNancy: Democrats have insisted the #Russians are resoponsible for #Trump WIN.\n\nWhy is  #SusanRice refusing to testify to that?\n#Thurs\u2026', 'longitude': -86.774353, 'created_time': 1493977130.0, 'latitude': 36.1622296, '_id': u'860353067920838656'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:51
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @DowdEdward: Many are asking why #Trump pulled a 180 in April. \n\nThe CIA sat him down &amp; showed him the other Dealy Plaza film from a dif\u2026', 'longitude': -89.3837612, 'created_time': 1493977130.0, 'latitude': 43.074761, '_id': u'860353067233017856'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @smartvalueblog: RT Arrest &amp; hang traitor John Kerry for Treason. #USA #Patriots #military #PJNET #Congress #Cruz #Trump #Ryan @GOP http\u2026', 'longitude': -77.727883, 'created_time': 1493977126.0, 'latitude': 40.9699889, '_id': u'860353052171284480'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:52
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @amjoyshow: How #Trump Could Get Fired https://t.co/O3fHcQKqhc via @eosnos', 'longitude': -73.9865811, 'created_time': 1493977126.0, 'latitude': 40.7305991, '_id': u'860353049906348032'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:53
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:42:54
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'positive', 'tweet': u'Pretty sure being a woman in #Trump America means  #IAmAPreexistingCondition.', 'longitude': -118.7559973, 'created_time': 1493977120.0, 'latitude': 36.7014631, '_id': u'860353027135258624'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:55
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'positive', 'tweet': u'RT @GasparProuve: Pic your favourite!\n\n#poll #cars #US #Italy #Germany #Japan #funquestion #fun #Trump #Firecolbert #Macron #Lepen #Musclec\u2026', 'longitude': -100.4458824, 'created_time': 1493977119.0, 'latitude': 39.7837304, '_id': u'860353020084842496'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"#Trump praises #Australia's #universalhealthcare  - perhaps he should have read his own bill?!@CNNPolitics https://t.co/yF7pc0cqdq", 'longitude': -3.7791083, 'created_time': 1493977109.0, 'latitude': 40.4058233, '_id': u'860352979924168704'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:56
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'Malcolm Turnbull meets with Donald Trump aboard USS Intrepid https://t.co/f7EBPwLqxD #Politics #Trump #USA', 'longitude': -100.4458824, 'created_time': 1493977095.0, 'latitude': 39.7837304, '_id': u'860352918842728448'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:57
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'USA: Trump and Turnbull meet after alleged contentious phone call on refugee deal https://t.co/oLrZw76lPl #Politics #Trump #USA', 'longitude': -100.4458824, 'created_time': 1493977094.0, 'latitude': 39.7837304, '_id': u'860352916682670080'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:58
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @TODDCastPodcast: May 12 @VivaHears powered guest @CulturedRuffian talks #Trump. How is he doing as US #President? #POTUS https://t.co/V\u2026', 'longitude': -87.6772509, 'created_time': 1493977081.0, 'latitude': 34.79981, '_id': u'860352862186082304'}
+
+-------------------------------------------
+Time: 2017-05-04 23:42:59
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @suebee129: #trump \U0001f4a9 https://t.co/8QfcEfDiv8', 'longitude': -81.3375191674911, 'created_time': 1493977076.0, 'latitude': 41.5208955, '_id': u'860352841524838400'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'The garbage in the White House &amp; Capital Hill needs to be taken out to the curb and hauled away. #GOP #Corporate Puppets #POTUS ? #Trump', 'longitude': -93.3122704, 'created_time': 1493977069.0, 'latitude': 41.9216734, '_id': u'860352811393052672'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:00
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"RT @trish_regan: As fmr US history major #Trump's strategy of weaving history into speeches works.He reminds us of unique past.Our sacrific\u2026", 'longitude': -81.7948102, 'created_time': 1493977068.0, 'latitude': 26.1420358, '_id': u'860352808910028800'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:01
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:02
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:03
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -86.4846018, 'created_time': 1493977310.0, 'latitude': 41.420552, '_id': u'860353823038201856'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -90.0701155, 'created_time': 1493977307.0, 'latitude': 29.9499323, '_id': u'860353809113128960'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:04
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -100.4458824, 'created_time': 1493977252.0, 'latitude': 39.7837304, '_id': u'860353581102268416'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:05
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -118.7559973, 'created_time': 1493977239.0, 'latitude': 36.7014631, '_id': u'860353523740852224'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:06
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -118.7559973, 'created_time': 1493977211.0, 'latitude': 36.7014631, '_id': u'860353407499948032'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:07
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'@Erinsalvatore5 @MasterHefe @GOP What do you like about #Obamacare? Skyrocketing premiums or the fact it was pimped\u2026 https://t.co/LDs7BJg3ck', 'longitude': -100.4458824, 'created_time': 1493977189.0, 'latitude': 39.7837304, '_id': u'860353313442758657'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:08
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -73.9495822, 'created_time': 1493977167.0, 'latitude': 40.6501038, '_id': u'860353224586481664'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:09
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u"RT @BayAreaCT: WATCH President Trump as he announces #AHCA &amp; demolishes another 1 of #Obama's legacies. Goodbye #Obamacare! #MAGA\U0001f1fa\U0001f1f8 https:/\u2026", 'longitude': -120.7372569, 'created_time': 1493977152.0, 'latitude': 43.9792797, '_id': u'860353160707059712'}
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @USSANews: ALERT! Look What #IRAN Is Doing With The $1.7 BILLION In Untraceable Cash #Obama Gave Them! - https://t.co/tBoCtUaM4x https:/\u2026', 'longitude': -81.4639834, 'created_time': 1493977146.0, 'latitude': 27.7567667, '_id': u'860353135163867136'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:10
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'#Obama now has nothing of his legacy but a #trainwreck abroad, a mountain of US debt, and a deeply divided country. #Obamacarerepeal  #MAGA', 'longitude': -85.6678638, 'created_time': 1493977138.0, 'latitude': 42.9632405, '_id': u'860353102574227456'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:11
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:12
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:13
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:14
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:15
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:16
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:17
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -112.433328812153, 'created_time': 1493977095.0, 'latitude': 33.3975655, '_id': u'860352922525118464'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -73.0992276431, 'created_time': 1493977083.0, 'latitude': 40.8517821, '_id': u'860352870234939392'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:18
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -74.4041621, 'created_time': 1493977061.0, 'latitude': 40.0757384, '_id': u'860352778023165952'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:19
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -77.0366455, 'created_time': 1493977025.0, 'latitude': 38.8949549, '_id': u'860352624947634176'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:20
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:21
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:22
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:23
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:24
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:25
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:26
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:27
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -121.193004, 'created_time': 1493976978.0, 'latitude': 38.8212889, '_id': u'860352430520754176'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -79.0392918, 'created_time': 1493976972.0, 'latitude': 35.6729639, '_id': u'860352405250199552'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:28
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:29
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:30
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:31
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:32
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:33
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -102.4027155, 'created_time': 1493976927.0, 'latitude': 31.6702597, '_id': u'860352215063691264'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:34
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @ronboutwell: #antifa #liberal #resist #resistance #obama #liberal #blm #blacklivesmatter https://t.co/03KTI0rROW', 'longitude': -100.4458824, 'created_time': 1493976891.0, 'latitude': 39.7837304, '_id': u'860352065113137152'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:35
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -100.4458824, 'created_time': 1493976889.0, 'latitude': 39.7837304, '_id': u'860352056711720960'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:36
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'@BarackObama #Obama s erster #Auftritt als Ex-Pr\xe4sident in #Chicago, #USA, #SivBritK\xfchl, #ARD- #aktuell @YouTube https://t.co/DJghIRYZqO', 'longitude': 13.3888599, 'created_time': 1493976831.0, 'latitude': 52.5170365, '_id': u'860351811311599616'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:37
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:38
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -104.5229517, 'created_time': 1493976771.0, 'latitude': 33.3943282, '_id': u'860351563214209024'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:39
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @WirwollenTTIP: @BarackObama #Obama s erster #Auftritt als Ex-Pr\xe4sident in #Chicago, #USA, #SivBritK\xfchl, #ARD- #aktuell @YouTube https:/\u2026', 'longitude': 13.3888599, 'created_time': 1493976766.0, 'latitude': 52.5170365, '_id': u'860351541974315008'}
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'#MAGA\nSo great 2 see #Obama continuing his primary mission of #MuslimsFirst.\n#EverybodyButAmerica = #PresidentObama\u2026 https://t.co/HdN5Tu2TIc', 'longitude': -100.4458824, 'created_time': 1493976755.0, 'latitude': 39.7837304, '_id': u'860351493127389184'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:40
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'@BarackObama #Obama s erster #Auftritt als Ex-Pr\xe4sident in #Chicago, #USA, #SivBritK\xfchl, #ARD- #aktuell @YouTube https://t.co/BfNrq7f8b9', 'longitude': 13.3888599, 'created_time': 1493976753.0, 'latitude': 52.5170365, '_id': u'860351484919250944'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:41
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @ronboutwell: NOTHING FUNNIER THAN A TRIGGERED LIBERAL.  #antifa #liberal #resist #resistance #obama #liberal #blm #blacklivesmatter htt\u2026', 'longitude': -116.8537226, 'created_time': 1493976746.0, 'latitude': 39.5158825, '_id': u'860351455013683200'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:42
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -81.6934445, 'created_time': 1493976738.0, 'latitude': 41.5051613, '_id': u'860351424269561856'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:43
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -83.8088171, 'created_time': 1493976721.0, 'latitude': 39.9242266, '_id': u'860351353088077824'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:44
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -87.4862181, 'created_time': 1493976672.0, 'latitude': 33.2668398, '_id': u'860351147722362880'}
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'NOTHING FUNNIER THAN A TRIGGERED LIBERAL.  #antifa #liberal #resist #resistance #obama #liberal #blm\u2026 https://t.co/znMQxCYxMt', 'longitude': -89.0928154, 'created_time': 1493976644.0, 'latitude': 30.3674198, '_id': u'860351030504153088'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:45
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -119.023994307757, 'created_time': 1493976636.0, 'latitude': 35.42831395, '_id': u'860350997155037184'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:46
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u"@antwonomous u is on 2 somthn dawg \U0001f923\U0001f602 don't no if u drew me or #obama https://t.co/ufRqd6zDlb", 'longitude': -118.7559973, 'created_time': 1493976634.0, 'latitude': 36.7014631, '_id': u'860350987189444609'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:47
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @Elvira_OnAir: #Obama deported 2.5M illegals, but faced no massive demonstrations. #Trump does same thing and is demonized. Double stand\u2026', 'longitude': -80.4363742, 'created_time': 1493976593.0, 'latitude': 33.6874388, '_id': u'860350815093104640'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:48
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -81.4639834, 'created_time': 1493976544.0, 'latitude': 27.7567667, '_id': u'860350611153399808'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:49
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -74.4041621, 'created_time': 1493976481.0, 'latitude': 40.0757384, '_id': u'860350343200337920'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:50
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:51
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:52
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:53
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:54
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:55
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @TheRealBeatBoss: The WORST villain in modern history #StarWarsDay #MayThe4thBeWithYou #Obama @BarackObama #Islam #Muslim https://t.co/E\u2026', 'longitude': -118.7559973, 'created_time': 1493976416.0, 'latitude': 36.7014631, '_id': u'860350073367965697'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:56
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:43:57
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @a35362: 100 Days: Ex-Obama Photographer Is Still Insta-Shading Trump https://t.co/zeDRTe4TwJ #BarackObama #Instagram #Obama #PeteSouza\u2026', 'longitude': -118.286343973446, 'created_time': 1493976354.0, 'latitude': 34.0224149, '_id': u'860349813933473793'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:58
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -89.7348496, 'created_time': 1493976333.0, 'latitude': 32.9715645, '_id': u'860349726465699840'}
+
+-------------------------------------------
+Time: 2017-05-04 23:43:59
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -118.2444759, 'created_time': 1493976333.0, 'latitude': 34.054935, '_id': u'860349723986714624'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:00
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -94.6113287, 'created_time': 1493976325.0, 'latitude': 45.9896587, '_id': u'860349689794887680'}
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'#Obama da su apoyo a #Macron para presidir #Francia https://t.co/1Ilbj1d9MB', 'longitude': -99.1517009707765, 'created_time': 1493976303.0, 'latitude': 19.32055625, '_id': u'860349600594632705'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:01
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @LibertyandEcon: Study documents how profitable access to Obama\u2019s White House was   https://t.co/gzQ1Y0owQQ #Obama #cronycapitalism', 'longitude': -83.1137365, 'created_time': 1493976299.0, 'latitude': 32.3293809, '_id': u'860349581401481217'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:02
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'@3lectric5heep Prudence needs to keep her legs closed and be checked for STDs... which BTW are NOT considered  pre\u2026 https://t.co/lC2swF0k67', 'longitude': -83.1137365, 'created_time': 1493976294.0, 'latitude': 32.3293809, '_id': u'860349558840336384'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:03
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -107.991707, 'created_time': 1493976289.0, 'latitude': 61.0666922, '_id': u'860349541039710209'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:04
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @SorosUnited: Soros Obama &amp; the Pope walk into a Bar https://t.co/kEwFAXXyp6 #MAGA #draintheswamp #PopeFrancis #obama #Obamacare', 'longitude': -73.9865811, 'created_time': 1493976284.0, 'latitude': 40.7305991, '_id': u'860349517518036992'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -2.226672, 'created_time': 1493976269.0, 'latitude': 53.4575797, '_id': u'860349454687260673'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:05
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @Camilletouraine: "#Macron d\xe9fend les valeurs lib\xe9rales".\nErreur de traduction, bien s\xfbr. \nC\'est \xe7a, l\'Empire \xe9tazunien. #Obama\U0001f600 https:/\u2026', 'longitude': -1.5541361, 'created_time': 1493976266.0, 'latitude': 47.2186371, '_id': u'860349442809094144'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:06
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:44:07
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @Elvira_OnAir: #Obama deported 2.5M illegals, but faced no massive demonstrations. #Trump does same thing and is demonized. Double stand\u2026', 'longitude': -119.0194638, 'created_time': 1493976246.0, 'latitude': 35.3738712, '_id': u'860349357845032960'}
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @vincentcuratola: Can you imagine if he would have said it about #Obama?...#Maxine Waters would have grabbed her...well...you know... ht\u2026', 'longitude': -73.9865811, 'created_time': 1493976239.0, 'latitude': 40.7305991, '_id': u'860349329030230016'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:08
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:44:09
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'Keralakaumudi  #kkfb #obama #trump #us\n\u0d35\u0d3e\u0d37\u0d3f\u0d02\u0d17\u0d4d\u0d1f\u0d7a: \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d2f\u0d3f\u0d7d \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d4d \u0d2d\u0d30\u0d23\u0d15\u0d4d\u0d15\u0d42\u0d1f\u0d02 \u0d15\u0d4a\u0d23\u0d4d\u0d1f\u0d41\u0d35\u0d28\u0d4d\u0d28 \u0d39\u0d46\u0d7d\u0d24\u0d4d\u0d24\u0d4d \u0d15\u0d46\u0d2f\u0d7c \u0d2c\u0d3f\u0d7d... https://t.co/5cRXpWCzYs', 'longitude': 76.9570481, 'created_time': 1493977425.0, 'latitude': 8.5058909, '_id': u'860354304133275648'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:10
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'#HillaryClinton to launch anti-#Trump resistance. https://t.co/Gwz15RgMjC https://t.co/84PXLtv4hV', 'longitude': 77.2159562, 'created_time': 1493977422.0, 'latitude': 28.6138967, '_id': u'860354292179456000'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"@PrisonPlanet I hope #Trump see's the need to revamp the #FCC so that the #FairnessInMediaAct is observed, &amp; equal\u2026 https://t.co/tvhXPZBu8y", 'longitude': -84.8766114, 'created_time': 1493977421.0, 'latitude': 35.1595182, '_id': u'860354288740179968'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:11
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @LVNancy: Democrats have insisted the #Russians are resoponsible for #Trump WIN.\n\nWhy is  #SusanRice refusing to testify to that?\n#Thurs\u2026', 'longitude': -100.4458824, 'created_time': 1493977420.0, 'latitude': 39.7837304, '_id': u'860354282931056640'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:12
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @Unpersuaded112: 20,000 young people told you to go f__k yourself recently Donald #Trump( @realDonaldTrump ) #MAGA. https://t.co/PIRxvlt\u2026', 'longitude': -118.7559973, 'created_time': 1493977417.0, 'latitude': 36.7014631, '_id': u'860354271224528896'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:13
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @BrianPaulStuart: .@realDonaldTrump:\nYou know no shame. What a fraud you are.\n#DonaldTrump #Trump #PretenderInChief #FakePresident #Faux\u2026', 'longitude': -111.7632754, 'created_time': 1493977414.0, 'latitude': 34.395342, '_id': u'860354258121539585'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @mayawiley: Apparently, all #Trump really wants is 4 women to get pregnant...and pay more 4 the #preexistingcondition of giving life. #A\u2026', 'longitude': 2.1570689, 'created_time': 1493977414.0, 'latitude': 48.9368705, '_id': u'860354257920417792'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:14
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'El doctor Jos\xe9 Sarukh\xe1n recibi\xf3 el @TylerPrize en Washington y en su discurso hizo dura cr\xedtica al muro de #Trump y\u2026 https://t.co/I6IP1mCV7Z', 'longitude': -16.3635046, 'created_time': 1493977412.0, 'latitude': 28.3673303, '_id': u'860354250639114240'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:15
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"RT @amishcomic: #Liberals losing their fucking minds over losing overtime pay!\nWe're with #Trump \nPlease control our free time cause we're\u2026", 'longitude': -75.1635898, 'created_time': 1493977403.0, 'latitude': 39.9523993, '_id': u'860354213301424128'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:16
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @SandraTXAS: Jimmy Kimmel 1%er out of touch with what is REALLY going on with Obamacare\n\n#IAmAPreexistingCondition\n#MAGA\n#Trump https://\u2026', 'longitude': -111.7632754, 'created_time': 1493977400.0, 'latitude': 34.395342, '_id': u'860354201737547776'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:17
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @TrumpSuperPAC: #AHCA PASSED! While others talk, #TRUMP is showing the FAKE NEWS media and the world, he is a Man Of Action! #MAGA https\u2026', 'longitude': -100.4458824, 'created_time': 1493977400.0, 'latitude': 39.7837304, '_id': u'860354200248532992'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:18
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @TrumpSuperPAC: Obama asked of loyalty from voters when he asked them to protect his legacy. Did you bash Obama? Why not refund #TRUMP w\u2026', 'longitude': -92.5617874, 'created_time': 1493977397.0, 'latitude': 38.7604815, '_id': u'860354185241481216'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:19
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'Retweeted Abraham ben Jacob (@coinabs):\n\nI STAND WITH PM #NETANYAHU + @POTUS #TRUMP \n\nAGAINST #ISLAMIC, #HAMAS,... https://t.co/RMt1FsiRGr', 'longitude': -121.8904019, 'created_time': 1493977394.0, 'latitude': 45.669513, '_id': u'860354175225348096'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'The Identity Politics Of The #Trump Administration | FiveThirtyEight https://t.co/p2QgLm75mV', 'longitude': -87.7845024, 'created_time': 1493977393.0, 'latitude': 41.8850317, '_id': u'860354172289511426'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:20
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @amjoyshow: As McCain softens tone on #Trump, State Dept considers giving his wife a job https://t.co/Z1Fw5DTEbz via @AP', 'longitude': -104.9847033, 'created_time': 1493977390.0, 'latitude': 39.7391536, '_id': u'860354156934160384'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:21
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @TrumpSuperPAC: Obama asked of loyalty from voters when he asked them to protect his legacy. Did you bash Obama? Why not refund #TRUMP w\u2026', 'longitude': -122.3025571, 'created_time': 1493977389.0, 'latitude': 49.1362948, '_id': u'860354153737928704'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:22
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @SandraTXAS: Jimmy Kimmel 1%er out of touch with what is REALLY going on with Obamacare\n\n#IAmAPreexistingCondition\n#MAGA\n#Trump https://\u2026', 'longitude': -86.1746932, 'created_time': 1493977389.0, 'latitude': 40.3270127, '_id': u'860354153440260096'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @coinabs: I STAND WITH PM #NETANYAHU + @POTUS #TRUMP \n\nAGAINST #ISLAMIC, #HAMAS, #ISIS, #HEZBOLAH, #MUSLIM BROS,  #IRAN TERROR \n\nAND ALL\u2026', 'longitude': -121.8904019, 'created_time': 1493977389.0, 'latitude': 45.669513, '_id': u'860354151733108736'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:23
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @SandraTXAS: Jimmy Kimmel 1%er out of touch with what is REALLY going on with Obamacare\n\n#IAmAPreexistingCondition\n#MAGA\n#Trump https://\u2026', 'longitude': -100.4458824, 'created_time': 1493977387.0, 'latitude': 39.7837304, '_id': u'860354145810644992'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @mayawiley: Apparently, all #Trump really wants is 4 women to get pregnant...and pay more 4 the #preexistingcondition of giving life. #A\u2026', 'longitude': -73.9865811, 'created_time': 1493977382.0, 'latitude': 40.7305991, '_id': u'860354125086810112'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:24
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @bocavista2016: DIANNE FEINSTEIN\n\n\U0001f449\xa0No Evidence Of #TrumpRussia Collusion\n\nhttps://t.co/Q5rbI7r2NZ\n@realDonaldTrump #Trump #MAGA\n#AHCA #\u2026', 'longitude': -100.4458824, 'created_time': 1493977379.0, 'latitude': 39.7837304, '_id': u'860354109924229120'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:25
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @AndyHortin: OMB Director Mick Mulvaney: #Democrats were "desperate" to make the #Trump admin. look like it could not function. https://\u2026', 'longitude': -89.637008098634, 'created_time': 1493977375.0, 'latitude': 39.8321862, '_id': u'860354095839932417'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:26
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:44:27
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"#Liberals losing their fucking minds over losing overtime pay!\nWe're with #Trump \nPlease control our free time cause we're too dumb!", 'longitude': -77.727883, 'created_time': 1493977362.0, 'latitude': 40.9699889, '_id': u'860354040651284480'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @DavidRomeiPHD: #Trump on his magical carpet flying over all his #Trumpkins with lies and crimes.  #Racism drives the soul of Americans.\u2026', 'longitude': -73.9865811, 'created_time': 1493977359.0, 'latitude': 40.7305991, '_id': u'860354026176643072'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:28
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:44:29
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:44:30
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'negative', 'tweet': u"I can't wait for #Trump's middle class supporters to realize just how badly he &amp; the #GOP have screwed them over in\u2026 https://t.co/j97oRSAnX5", 'longitude': -117.873064462512, 'created_time': 1493977345.0, 'latitude': 33.9192963, '_id': u'860353970094563328'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:31
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'This is the best. #diversity #trump #gop #GOPclones https://t.co/SlWLL25b07', 'longitude': -87.6244211, 'created_time': 1493977335.0, 'latitude': 41.8755546, '_id': u'860353927987908608'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:32
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @ScottAdamsSays: I tell you how persuasive the new "Trump is crazy" attacks are: https://t.co/lcQm9Qx9QD #Trump', 'longitude': -76.9382068, 'created_time': 1493977331.0, 'latitude': 39.5162234, '_id': u'860353912263639040'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:33
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:44:34
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:44:35
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:44:36
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:44:37
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:44:38
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"@SenSanders @BernieSanders just dragged the @HouseGOP &amp; @realDonaldTrump 's new health care bill on @cnnbrk \U0001f602 says won't make it.. #Trump", 'longitude': -116.223315149664, 'created_time': 1493977321.0, 'latitude': 33.743765, '_id': u'860353869049544704'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:39
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @amjoyshow: As McCain softens tone on #Trump, State Dept considers giving his wife a job https://t.co/Z1Fw5DTEbz via @AP', 'longitude': -84.4655326675654, 'created_time': 1493977321.0, 'latitude': 39.03515105, '_id': u'860353868277760001'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:40
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'#Putin needs to accept new rules of the game\n#Trump #Moscow\nhttps://t.co/dcoeJqhOPT', 'longitude': 103.8520359, 'created_time': 1493977320.0, 'latitude': 1.2904753, '_id': u'860353863563579393'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'#Putin needs to accept new rules of the game\n#Trump #Moscow\nhttps://t.co/o8FDdXMVV6', 'longitude': 151.2164539, 'created_time': 1493977320.0, 'latitude': -33.8548156, '_id': u'860353863420923904'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:41
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:44:42
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @Lwme07: STOP TRYING TO DIVERT FROM #TrumpRussiaInvestigation.\n#FBI should have #TRUMP testify under oath in open hearing! Popcorn for a\u2026', 'longitude': -89.4339808, 'created_time': 1493977314.0, 'latitude': 40.0796319, '_id': u'860353840012460032'}
+{'hash_tag': u'#trump', 'lavel': 'positive', 'tweet': u"RT @XNSNews: Happy 100 Days of' President #Trump America!  Looking forward to the next 100 and all 8 Years!  #MAGA https://t.co/ZoGv34uoES", 'longitude': -89.4339808, 'created_time': 1493977310.0, 'latitude': 40.0796319, '_id': u'860353820911693824'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:43
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @SandraTXAS: Jimmy Kimmel 1%er out of touch with what is REALLY going on with Obamacare\n\n#IAmAPreexistingCondition\n#MAGA\n#Trump https://\u2026', 'longitude': -97.3327458, 'created_time': 1493977306.0, 'latitude': 32.753177, '_id': u'860353803626979328'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:44
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @DrDenaGrayson: .@LouiseMensch @TrueFactsStated @3L3V3NTH @hardhouz13 Iadonisi worked for #Flynn &amp; #Trump campaign, who paid $200k for \u201c\u2026', 'longitude': -77.0366455, 'created_time': 1493977301.0, 'latitude': 38.8949549, '_id': u'860353786090532864'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'How can he not be sued for this?\n#Trump #media #law @CNN @nytimes @mnsbc https://t.co/j4owpQFRor', 'longitude': -107.991707, 'created_time': 1493977300.0, 'latitude': 61.0666922, '_id': u'860353779803148288'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:45
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @SandraTXAS: Jimmy Kimmel 1%er out of touch with what is REALLY going on with Obamacare\n\n#IAmAPreexistingCondition\n#MAGA\n#Trump https://\u2026', 'longitude': -100.4458824, 'created_time': 1493977290.0, 'latitude': 39.7837304, '_id': u'860353736547467264'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'We need an #IndependentInvestigation, with staff working 24x7. \n\n#Trump is winning the #TrumpRussiaCoverUp.\n\n#Resist', 'longitude': -122.251050040619, 'created_time': 1493977287.0, 'latitude': 47.5549139, '_id': u'860353724895551488'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:46
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"RT @avanconia: It's time for #Trump Supporters to Call &amp; Write the @WhiteHouse.\nTell him to #DrainTheSwamp, #BuildTheWall &amp; FIGHT!\n\U0001f449https:/\u2026", 'longitude': -100.4458824, 'created_time': 1493977280.0, 'latitude': 39.7837304, '_id': u'860353695405551616'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:47
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'Europe Edition: France, Syria, Prince Philip: Your Friday Briefing https://t.co/wJWxY9E1Ci #trump #USA https://t.co/OhQNWrVW5x', 'longitude': -99.5120985, 'created_time': 1493977278.0, 'latitude': 31.8160381, '_id': u'860353689445253120'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:48
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"RT @trish_regan: As fmr US history major #Trump's strategy of weaving history into speeches works.He reminds us of unique past.Our sacrific\u2026", 'longitude': -99.5120985, 'created_time': 1493977278.0, 'latitude': 31.8160381, '_id': u'860353688833073152'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @DrDenaGrayson: .@LouiseMensch @TrueFactsStated @3L3V3NTH @hardhouz13 Iadonisi worked for #Flynn &amp; #Trump campaign, who paid $200k for \u201c\u2026', 'longitude': -122.3300623, 'created_time': 1493977277.0, 'latitude': 47.6038321, '_id': u'860353685489987584'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:49
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'The Money Issue: Israel\u2019s Invisible Filipino Work Force https://t.co/kIcutjsUUA #trump #USA https://t.co/xPJQxJJECp', 'longitude': -99.5120985, 'created_time': 1493977275.0, 'latitude': 31.8160381, '_id': u'860353674966581248'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:50
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @SandraTXAS: Jimmy Kimmel 1%er out of touch with what is REALLY going on with Obamacare\n\n#IAmAPreexistingCondition\n#MAGA\n#Trump https://\u2026', 'longitude': -80.8431267, 'created_time': 1493977275.0, 'latitude': 35.2270869, '_id': u'860353673968459776'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:51
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:44:52
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'#Nigeria #news - #Trump to sign revised executive order on immigration Monday https://t.co/a6ssKSuQs6', 'longitude': 3.3941795, 'created_time': 1493977264.0, 'latitude': 6.4550575, '_id': u'860353628598669312'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"As if churches don't get away with enough horseshit.  https://t.co/NQT0SjFitT #religulous #religion #church #trump", 'longitude': -116.7804663, 'created_time': 1493977264.0, 'latitude': 47.6776832, '_id': u'860353627830984704'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:53
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @SandraTXAS: Jimmy Kimmel 1%er out of touch with what is REALLY going on with Obamacare\n\n#IAmAPreexistingCondition\n#MAGA\n#Trump https://\u2026', 'longitude': -95.3676973, 'created_time': 1493977252.0, 'latitude': 29.7589382, '_id': u'860353579181322240'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:54
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'This is the #Trump ad @CNN refused to air because of #FakeNews graphic.\n\nWe apologize, it should say #VeryFakeNews \U0001f602 https://t.co/Vgui2P27j7', 'longitude': -117.611504795149, 'created_time': 1493977248.0, 'latitude': 33.42671075, '_id': u'860353563045658625'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:55
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @SandraTXAS: Jimmy Kimmel 1%er out of touch with what is REALLY going on with Obamacare\n\n#IAmAPreexistingCondition\n#MAGA\n#Trump https://\u2026', 'longitude': -99.5873815, 'created_time': 1493977245.0, 'latitude': 41.7370229, '_id': u'860353550970499072'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u"RT @Don_Vito_08: Stephen #FireColbert doubles down on #Trump #Homophobia taunt: 'I would do it again' #CancelColbert | https://t.co/amzasl2\u2026", 'longitude': -111.7632754, 'created_time': 1493977243.0, 'latitude': 34.395342, '_id': u'860353542346776576'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:56
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'negative', 'tweet': u'Liberals are mad that Obamacare will be gone soon! Let the snowflaking begin!!!! #TRUMP #MAGA #AmericanHealthCareAct #AmericaFirst', 'longitude': -118.7559973, 'created_time': 1493977232.0, 'latitude': 36.7014631, '_id': u'860353494032629760'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:57
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @DrDenaGrayson: .@LouiseMensch @TrueFactsStated @3L3V3NTH @hardhouz13 Iadonisi worked for #Flynn &amp; #Trump campaign, who paid $200k for \u201c\u2026', 'longitude': -75.9774182, 'created_time': 1493977231.0, 'latitude': 36.8529841, '_id': u'860353489708486656'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:58
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @electroboyusa: Every American has the right to quality #mentalhealth care and #Trumpcare is not "wonderful" as #Trump tweeted - - it hu\u2026', 'longitude': -118.2444759, 'created_time': 1493977228.0, 'latitude': 34.054935, '_id': u'860353480065601536'}
+
+-------------------------------------------
+Time: 2017-05-04 23:44:59
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:00
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:01
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:02
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:03
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:04
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:05
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'positive', 'tweet': u"RT @avanconia: @PrisonPlanet @MrBCWalker Hey #Resistance I know you say #Trump's the worst.. so why does he give &amp; receive more respect &amp; h\u2026", 'longitude': -122.0260569, 'created_time': 1493977225.0, 'latitude': 36.9735903, '_id': u'860353466484510720'}
+
+-------------------------------------------
+Time: 2017-05-04 23:45:06
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:07
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:08
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:09
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:10
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:11
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:12
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:13
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'Keralakaumudi  #kkfb #obama #trump #us\n\u0d35\u0d3e\u0d37\u0d3f\u0d02\u0d17\u0d4d\u0d1f\u0d7a: \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d2f\u0d3f\u0d7d \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d4d \u0d2d\u0d30\u0d23\u0d15\u0d4d\u0d15\u0d42\u0d1f\u0d02 \u0d15\u0d4a\u0d23\u0d4d\u0d1f\u0d41\u0d35\u0d28\u0d4d\u0d28 \u0d39\u0d46\u0d7d\u0d24\u0d4d\u0d24\u0d4d \u0d15\u0d46\u0d2f\u0d7c \u0d2c\u0d3f\u0d7d... https://t.co/5cRXpWCzYs', 'longitude': 76.9570481, 'created_time': 1493977425.0, 'latitude': 8.5058909, '_id': u'860354304133275648'}
+
+-------------------------------------------
+Time: 2017-05-04 23:45:14
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -118.7559973, 'created_time': 1493977377.0, 'latitude': 36.7014631, '_id': u'860354102206668800'}
+
+-------------------------------------------
+Time: 2017-05-04 23:45:15
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -86.4846018, 'created_time': 1493977310.0, 'latitude': 41.420552, '_id': u'860353823038201856'}
+
+-------------------------------------------
+Time: 2017-05-04 23:45:16
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -90.0701155, 'created_time': 1493977307.0, 'latitude': 29.9499323, '_id': u'860353809113128960'}
+
+-------------------------------------------
+Time: 2017-05-04 23:45:17
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -100.4458824, 'created_time': 1493977252.0, 'latitude': 39.7837304, '_id': u'860353581102268416'}
+
+-------------------------------------------
+Time: 2017-05-04 23:45:18
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:19
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:20
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:21
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:22
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -118.7559973, 'created_time': 1493977239.0, 'latitude': 36.7014631, '_id': u'860353523740852224'}
+
+-------------------------------------------
+Time: 2017-05-04 23:45:23
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -118.7559973, 'created_time': 1493977211.0, 'latitude': 36.7014631, '_id': u'860353407499948032'}
+
+-------------------------------------------
+Time: 2017-05-04 23:45:24
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:25
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'@Erinsalvatore5 @MasterHefe @GOP What do you like about #Obamacare? Skyrocketing premiums or the fact it was pimped\u2026 https://t.co/LDs7BJg3ck', 'longitude': -75.5049109, 'created_time': 1493977189.0, 'latitude': 43.9850693, '_id': u'860353313442758657'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -73.9495822, 'created_time': 1493977167.0, 'latitude': 40.6501038, '_id': u'860353224586481664'}
+
+-------------------------------------------
+Time: 2017-05-04 23:45:26
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u"RT @BayAreaCT: WATCH President Trump as he announces #AHCA &amp; demolishes another 1 of #Obama's legacies. Goodbye #Obamacare! #MAGA\U0001f1fa\U0001f1f8 https:/\u2026", 'longitude': -120.7372569, 'created_time': 1493977152.0, 'latitude': 43.9792797, '_id': u'860353160707059712'}
+
+-------------------------------------------
+Time: 2017-05-04 23:45:27
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @USSANews: ALERT! Look What #IRAN Is Doing With The $1.7 BILLION In Untraceable Cash #Obama Gave Them! - https://t.co/tBoCtUaM4x https:/\u2026', 'longitude': -81.4639834, 'created_time': 1493977146.0, 'latitude': 27.7567667, '_id': u'860353135163867136'}
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'#Obama now has nothing of his legacy but a #trainwreck abroad, a mountain of US debt, and a deeply divided country. #Obamacarerepeal  #MAGA', 'longitude': -85.6678638, 'created_time': 1493977138.0, 'latitude': 42.9632405, '_id': u'860353102574227456'}
+
+-------------------------------------------
+Time: 2017-05-04 23:45:28
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:29
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:30
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:31
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:32
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:33
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:34
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -112.433328812153, 'created_time': 1493977095.0, 'latitude': 33.3975655, '_id': u'860352922525118464'}
+
+-------------------------------------------
+Time: 2017-05-04 23:45:35
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:36
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -74.4041621, 'created_time': 1493977061.0, 'latitude': 40.0757384, '_id': u'860352778023165952'}
+
+-------------------------------------------
+Time: 2017-05-04 23:45:37
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -77.0366455, 'created_time': 1493977025.0, 'latitude': 38.8949549, '_id': u'860352624947634176'}
+
+-------------------------------------------
+Time: 2017-05-04 23:45:38
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:39
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -116.8537226, 'created_time': 1493977001.0, 'latitude': 39.5158825, '_id': u'860352527438499840'}
+
+-------------------------------------------
+Time: 2017-05-04 23:45:40
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:41
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:42
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:43
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:44
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -121.193004, 'created_time': 1493976978.0, 'latitude': 38.8212889, '_id': u'860352430520754176'}
+
+-------------------------------------------
+Time: 2017-05-04 23:45:45
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:46
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -102.4027155, 'created_time': 1493976927.0, 'latitude': 31.6702597, '_id': u'860352215063691264'}
+
+-------------------------------------------
+Time: 2017-05-04 23:45:47
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:48
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @ronboutwell: #antifa #liberal #resist #resistance #obama #liberal #blm #blacklivesmatter https://t.co/03KTI0rROW', 'longitude': -100.4458824, 'created_time': 1493976891.0, 'latitude': 39.7837304, '_id': u'860352065113137152'}
+
+-------------------------------------------
+Time: 2017-05-04 23:45:49
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -100.4458824, 'created_time': 1493976889.0, 'latitude': 39.7837304, '_id': u'860352056711720960'}
+
+-------------------------------------------
+Time: 2017-05-04 23:45:50
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:51
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:52
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:53
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:54
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:55
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:56
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:57
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:58
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:45:59
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:00
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'@BarackObama #Obama s erster #Auftritt als Ex-Pr\xe4sident in #Chicago, #USA, #SivBritK\xfchl, #ARD- #aktuell @YouTube https://t.co/DJghIRYZqO', 'longitude': 13.3888599, 'created_time': 1493976831.0, 'latitude': 52.5170365, '_id': u'860351811311599616'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:01
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:02
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:03
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -104.5229517, 'created_time': 1493976771.0, 'latitude': 33.3943282, '_id': u'860351563214209024'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:04
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @WirwollenTTIP: @BarackObama #Obama s erster #Auftritt als Ex-Pr\xe4sident in #Chicago, #USA, #SivBritK\xfchl, #ARD- #aktuell @YouTube https:/\u2026', 'longitude': 13.3888599, 'created_time': 1493976766.0, 'latitude': 52.5170365, '_id': u'860351541974315008'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:05
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'#MAGA\nSo great 2 see #Obama continuing his primary mission of #MuslimsFirst.\n#EverybodyButAmerica = #PresidentObama\u2026 https://t.co/HdN5Tu2TIc', 'longitude': -100.4458824, 'created_time': 1493976755.0, 'latitude': 39.7837304, '_id': u'860351493127389184'}
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'@BarackObama #Obama s erster #Auftritt als Ex-Pr\xe4sident in #Chicago, #USA, #SivBritK\xfchl, #ARD- #aktuell @YouTube https://t.co/BfNrq7f8b9', 'longitude': 13.3888599, 'created_time': 1493976753.0, 'latitude': 52.5170365, '_id': u'860351484919250944'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:06
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @ronboutwell: NOTHING FUNNIER THAN A TRIGGERED LIBERAL.  #antifa #liberal #resist #resistance #obama #liberal #blm #blacklivesmatter htt\u2026', 'longitude': -116.8537226, 'created_time': 1493976746.0, 'latitude': 39.5158825, '_id': u'860351455013683200'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -81.6934445, 'created_time': 1493976738.0, 'latitude': 41.5051613, '_id': u'860351424269561856'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:07
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -83.8088171, 'created_time': 1493976721.0, 'latitude': 39.9242266, '_id': u'860351353088077824'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:08
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -87.4862181, 'created_time': 1493976672.0, 'latitude': 33.2668398, '_id': u'860351147722362880'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:09
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:10
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:11
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:12
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:13
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:14
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'NOTHING FUNNIER THAN A TRIGGERED LIBERAL.  #antifa #liberal #resist #resistance #obama #liberal #blm\u2026 https://t.co/znMQxCYxMt', 'longitude': -89.0928154, 'created_time': 1493976644.0, 'latitude': 30.3674198, '_id': u'860351030504153088'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:15
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -119.023994307757, 'created_time': 1493976636.0, 'latitude': 35.42831395, '_id': u'860350997155037184'}
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u"@antwonomous u is on 2 somthn dawg \U0001f923\U0001f602 don't no if u drew me or #obama https://t.co/ufRqd6zDlb", 'longitude': -118.7559973, 'created_time': 1493976634.0, 'latitude': 36.7014631, '_id': u'860350987189444609'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:16
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @Elvira_OnAir: #Obama deported 2.5M illegals, but faced no massive demonstrations. #Trump does same thing and is demonized. Double stand\u2026', 'longitude': -80.4363742, 'created_time': 1493976593.0, 'latitude': 33.6874388, '_id': u'860350815093104640'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:17
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -81.4639834, 'created_time': 1493976544.0, 'latitude': 27.7567667, '_id': u'860350611153399808'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:18
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:19
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -74.4041621, 'created_time': 1493976481.0, 'latitude': 40.0757384, '_id': u'860350343200337920'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:20
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @TheRealBeatBoss: The WORST villain in modern history #StarWarsDay #MayThe4thBeWithYou #Obama @BarackObama #Islam #Muslim https://t.co/E\u2026', 'longitude': -118.7559973, 'created_time': 1493976416.0, 'latitude': 36.7014631, '_id': u'860350073367965697'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:21
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -100.4458824, 'created_time': 1493976391.0, 'latitude': 39.7837304, '_id': u'860349968896458752'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:22
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @a35362: 100 Days: Ex-Obama Photographer Is Still Insta-Shading Trump https://t.co/zeDRTe4TwJ #BarackObama #Instagram #Obama #PeteSouza\u2026', 'longitude': -118.286343973446, 'created_time': 1493976354.0, 'latitude': 34.0224149, '_id': u'860349813933473793'}
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -89.7348496, 'created_time': 1493976333.0, 'latitude': 32.9715645, '_id': u'860349726465699840'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:23
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:24
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:25
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:26
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:27
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:28
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -118.2444759, 'created_time': 1493976333.0, 'latitude': 34.054935, '_id': u'860349723986714624'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:29
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -94.6113287, 'created_time': 1493976325.0, 'latitude': 45.9896587, '_id': u'860349689794887680'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:30
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'#Obama da su apoyo a #Macron para presidir #Francia https://t.co/1Ilbj1d9MB', 'longitude': -99.1517009707765, 'created_time': 1493976303.0, 'latitude': 19.32055625, '_id': u'860349600594632705'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:31
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'neutral', 'tweet': u'RT @LibertyandEcon: Study documents how profitable access to Obama\u2019s White House was   https://t.co/gzQ1Y0owQQ #Obama #cronycapitalism', 'longitude': -83.1137365, 'created_time': 1493976299.0, 'latitude': 32.3293809, '_id': u'860349581401481217'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:32
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'@3lectric5heep Prudence needs to keep her legs closed and be checked for STDs... which BTW are NOT considered  pre\u2026 https://t.co/lC2swF0k67', 'longitude': -83.1137365, 'created_time': 1493976294.0, 'latitude': 32.3293809, '_id': u'860349558840336384'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:33
+-------------------------------------------
+{'hash_tag': u'#obama', 'lavel': 'negative', 'tweet': u'RT @RealJamesWoods: THIS is the story. Sad we would not know this without the #Russians. Our press is worthless; #Obama, #Lynch criminal ht\u2026', 'longitude': -107.991707, 'created_time': 1493976289.0, 'latitude': 61.0666922, '_id': u'860349541039710209'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:34
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:35
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @LeeCamp: #Trump &amp; GOP try to slam thru #healthcarebill before ppl learn about it. An informed populace is the greatst enemy of the crim\u2026', 'longitude': -118.7559973, 'created_time': 1493977572.0, 'latitude': 36.7014631, '_id': u'860354922474123265'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:36
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @mayawiley: Apparently, all #Trump really wants is 4 women to get pregnant...and pay more 4 the #preexistingcondition of giving life. #A\u2026', 'longitude': -85.155141, 'created_time': 1493977571.0, 'latitude': 37.5726028, '_id': u'860354914958155776'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'#TheResistance #TrumpRussia #Indivisible #Trump #ImpeachTrump - https://t.co/dGVSRDGj8x https://t.co/aT04pUVM8O', 'longitude': -100.4458824, 'created_time': 1493977564.0, 'latitude': 39.7837304, '_id': u'860354889117040640'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:37
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'negative', 'tweet': u'RT @DarrenJJordan: EWWW! @Morning_Joe \U0001f922\nDISGUST GROSS LIBERALS\n@morningmika @JoeNBC #FakeNews\n#TRUMP #AmericaFirst  #TrumpsArmy\n#TrumpStron\u2026', 'longitude': -86.8295336, 'created_time': 1493977561.0, 'latitude': 33.2588817, '_id': u'860354874520862720'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @BrianPaulStuart: .@realDonaldTrump:\nYou know no shame. What a fraud you are.\n#DonaldTrump #Trump #PretenderInChief #FakePresident #Faux\u2026', 'longitude': -109.0000001, 'created_time': 1493977558.0, 'latitude': 51.0000002, '_id': u'860354861241520129'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:38
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @SandraTXAS: Jimmy Kimmel 1%er out of touch with what is REALLY going on with Obamacare\n\n#IAmAPreexistingCondition\n#MAGA\n#Trump https://\u2026', 'longitude': -73.9865811, 'created_time': 1493977555.0, 'latitude': 40.7305991, '_id': u'860354849011097600'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:39
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'#Trump #Montebello #California @ArtieFice https://t.co/6Bw2b2uxhE', 'longitude': -118.2444759, 'created_time': 1493977555.0, 'latitude': 34.054935, '_id': u'860354847836487680'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:40
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @mayawiley: Apparently, all #Trump really wants is 4 women to get pregnant...and pay more 4 the #preexistingcondition of giving life. #A\u2026', 'longitude': -100.4458824, 'created_time': 1493977552.0, 'latitude': 39.7837304, '_id': u'860354836113612800'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:41
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @RightWingLawman: This is the #Trump ad @CNN refused to air because of #FakeNews graphic.\n\nWe apologize, it should say #VeryFakeNews \U0001f602 h\u2026', 'longitude': -96.7968558, 'created_time': 1493977551.0, 'latitude': 32.7762719, '_id': u'860354833194393600'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:42
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:43
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:44
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:45
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:46
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @TrumpSuperPAC: .@MarkHalperin needs to stop referring to #TRUMP as a novice when he has more experience than Obama ever did! #MAGA http\u2026', 'longitude': -97.8592149, 'created_time': 1493977548.0, 'latitude': 40.605566, '_id': u'860354821064466432'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:47
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @63red: Pinkerton: President Trump Remembers the Battle of the Coral Sea and Its Lessons - #tcot #MAGA #Trump https://t.co/8ciSFMpW6r', 'longitude': -107.991707, 'created_time': 1493977546.0, 'latitude': 61.0666922, '_id': u'860354814261293056'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'El #Avi\xf3ndelJuicioFinal: As\xed es la #Aeronave que proteger\xe1 a #Trump en caso de una #GuerraNuclear https://t.co/pJ8obbb37k', 'longitude': -84.0739101, 'created_time': 1493977545.0, 'latitude': 10.2735633, '_id': u'860354806405353472'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:48
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'negative', 'tweet': u'RT @63red: Zimbabwe\u2019s Mugabe: \u2018We Are Not a Poor Country, I Call America Fragile\u2019 - #tcot #MAGA #Trump https://t.co/jLGB3WLnRi', 'longitude': -107.991707, 'created_time': 1493977543.0, 'latitude': 61.0666922, '_id': u'860354799795044352'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:49
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @LVNancy: Democrats have insisted the #Russians are resoponsible for #Trump WIN.\n\nWhy is  #SusanRice refusing to testify to that?\n#Thurs\u2026', 'longitude': -99.5120985, 'created_time': 1493977539.0, 'latitude': 31.8160381, '_id': u'860354784691400704'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @63red: Lindsey Graham: \u2018We Will Continue\u2019 to Look into Susan Rice\u2019s Unmasking - #tcot #MAGA #Trump https://t.co/Uy1ibpGaD7', 'longitude': -107.991707, 'created_time': 1493977534.0, 'latitude': 61.0666922, '_id': u'860354760792297473'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:50
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @RawStory: Senator leading Russia investigation sets odds of #Trump impeachment at 2-to-1 https://t.co/34cU0MzmJ2 https://t.co/kcbYhwOMtF', 'longitude': -100.4458824, 'created_time': 1493977533.0, 'latitude': 39.7837304, '_id': u'860354758443495424'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:51
+-------------------------------------------
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @LeeCamp: #Trump &amp; GOP try to slam thru #healthcarebill before ppl learn about it. An informed populace is the greatst enemy of the crim\u2026', 'longitude': -118.3299898, 'created_time': 1493977531.0, 'latitude': 34.1028268, '_id': u'860354750331576320'}
+{'hash_tag': u'#trump', 'lavel': 'neutral', 'tweet': u'RT @amjoyshow: As McCain softens tone on #Trump, State Dept considers giving his wife a job https://t.co/Z1Fw5DTEbz via @AP', 'longitude': -80.8184169, 'created_time': 1493977529.0, 'latitude': 41.237557, '_id': u'860354740110200832'}
+
+-------------------------------------------
+Time: 2017-05-04 23:46:52
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:53
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:54
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:55
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:56
+-------------------------------------------
+
+-------------------------------------------
+Time: 2017-05-04 23:46:57
+-------------------------------------------
+
+

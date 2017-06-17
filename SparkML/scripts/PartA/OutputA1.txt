@@ -1,0 +1,44 @@
+Cluster Id , List of first 5 Movies in cluster
+Cluster Id 1
+(1968,Breakfast Club, The (1985) , Comedy|Drama)
+(2804,Christmas Story, A (1983) , Comedy|Drama)
+(1288,This Is Spinal Tap (1984) , Comedy|Drama|Musical)
+(2997,Being John Malkovich (1999) , Comedy)
+(1394,Raising Arizona (1987) , Comedy)
+Cluster Id 7
+(527,Schindler's List (1993) , Drama|War)
+(2858,American Beauty (1999) , Comedy|Drama)
+Cluster Id 3
+(3435,Double Indemnity (1944) , Crime|Film-Noir)
+Cluster Id 9
+(3755,Perfect Storm, The (2000) , Action|Adventure|Thriller)
+(2301,History of the World: Part I (1981) , Comedy)
+(1375,Star Trek III: The Search for Spock (1984) , Action|Adventure|Sci-Fi)
+(3827,Space Cowboys (2000) , Action|Sci-Fi)
+(1391,Mars Attacks! (1996) , Action|Comedy|Sci-Fi|War)
+Cluster Id 5
+(2194,Untouchables, The (1987) , Action|Crime|Drama)
+(1197,Princess Bride, The (1987) , Action|Adventure|Comedy|Romance)
+(2987,Who Framed Roger Rabbit? (1988) , Adventure|Animation|Film-Noir)
+(2985,Robocop (1987) , Action|Crime|Sci-Fi)
+(541,Blade Runner (1982) , Film-Noir|Sci-Fi)
+Cluster Id 4
+(457,Fugitive, The (1993) , Action|Thriller)
+(377,Speed (1994) , Action|Romance|Thriller)
+Cluster Id 0
+(2277,Somewhere in the City (1997) , Drama)
+(3395,Nadine (1987) , Comedy)
+(1601,Hoodlum (1997) , Crime|Drama|Film-Noir)
+(178,Love & Human Remains (1993) , Comedy)
+(556,War Room, The (1993) , Documentary)
+Cluster Id 6
+(1962,Driving Miss Daisy (1989) , Drama)
+(1199,Brazil (1985) , Sci-Fi)
+(1238,Local Hero (1983) , Comedy)
+(1193,One Flew Over the Cuckoo's Nest (1975) , Drama)
+(1179,Grifters, The (1990) , Crime|Drama|Film-Noir)
+Cluster Id 8
+(1396,Sneakers (1992) , Crime|Drama|Sci-Fi)
+Cluster Id 2
+(2302,My Cousin Vinny (1992) , Comedy)
+
