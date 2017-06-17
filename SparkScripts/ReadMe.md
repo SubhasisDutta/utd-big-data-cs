@@ -28,3 +28,5 @@ $ hdfs dfs -rm -r spark_output3
 $ spark-submit Problem3.py hdfs://localhost:54310/user/subhasis/ input3/graph.csv spark_output3
 $ hdfs dfs -cat spark_output3/*
 ```
+
+spark-submit Problem3.py ../data/graph.csv output.txt
